@@ -1,11 +1,11 @@
 
 # Projet de fouille de textes
-# > Tri des recettes en régimes allimentaires 
+# Tri des recettes en régimes allimentaires 
 ## Kehina et Alix les best 
 
 
 
-# Régimes annalysables ? 
+# Régimes annalysables 
 
 ### Notion de sains et de régimes  
 Sains = équilibre 
@@ -54,9 +54,9 @@ ex: lissage de la glycémie sur plusieurs heures
 - script aspirations des urls  
 
 Sites utilisés: 
-- J le sang 
-- Mercotte ce génie 
-...
+- La Cuisine de Jackie 
+- La Cuisine de Mercotte
+- Quand Nad Cuisine
 
 # Annotation du corpus 
 Dans un fichier tabulaire (TSV), 
