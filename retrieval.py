@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import argparse
 
 ##### CE PROGRAMME PERMET D'EXTRAIRE LE CONTENU TEXTUEL BRUT DE CHAQUE LIEN DU CORPUS #####
+# Les fichiers crées sont stockés dans dumps-text/<nom_du_site>
 # Exemple commande = python3 retrieval.py nadine
 
 ##### PREMIÈRE FONCTION POUR OBTENIR LES COLONNES DES LIENS ET DES ID ####
@@ -33,12 +34,12 @@ def get_texte(liste_liens, site):
         soupe = BeautifulSoup(reponse.text, "html.parser")
         texte = soupe.get_text()
         chemin = f"dumps-text/{site}/{id}_{site}_dump.txt"
-        with open(chemin, "w") as fichier:
+        with open(chemin, "w", encoding="utf8") as fichier:
             fichier.write(texte)
 
 def main():
 
-    parser = argparse.ArgumentParser(description='Prendre tous les fichiers xml du corpus')
+    parser = argparse.ArgumentParser(description='Extraire le contenu textuel')
     parser.add_argument('site', choices=["nadine", "jackie", "mercotte", "marmiton", "elle"], help='Nom du site dont on veut extraire les liens')
     args = parser.parse_args()
 
