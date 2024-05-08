@@ -102,6 +102,19 @@ print(pourcentage_vegetarien, pourcentage_vegan, pourcentage_crudivore, pourcent
 plot_regimes(nbr_vegetarien, nbr_vegan, nbr_crudivore, nbr_sans_gluten, nbr_alixproof, nbr_sans_noix, nbr_sale, nbr_sucre)
 
 
+def taille_recette(list_recettes): 
+    nbr_recette = 0
+    taille = 0
+    for recette in list_recettes: 
+        nbr_recette +=1
+        liste = (recette.texte).split(" ")
+        taille += len(liste)
+    moyenne_taille = taille/nbr_recette
+    return moyenne_taille
+
+taille = taille_recette(list_recettes)
+print(taille)
+
 def plot_ss(nbr_sale, nbr_sucre): 
     nom = ["salé", "sucré"]
     taille = [nbr_sale, nbr_sucre]
