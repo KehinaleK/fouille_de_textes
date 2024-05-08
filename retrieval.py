@@ -47,15 +47,15 @@ def main():
 
     # On extrait les liens correspondants à chaque site
     if args.site == "nadine":
-        liste_liens = get_liens(colonne_liens_id, debut = 0, fin = 50)
+        liste_liens = get_liens(colonne_liens_id, debut = 0, fin = 76)
     elif args.site == "jackie":
-        liste_liens = get_liens(colonne_liens_id, debut = 51, fin = 101)
+        liste_liens = get_liens(colonne_liens_id, debut = 76, fin = 149)
     elif args.site == "mercotte":
-        liste_liens = get_liens(colonne_liens_id, debut = 102, fin = 152)
+        liste_liens = get_liens(colonne_liens_id, debut = 149, fin = 199)
     elif args.site == "marmiton":
-        liste_liens = get_liens(colonne_liens_id, debut = 153, fin = 303)
+        liste_liens = get_liens(colonne_liens_id, debut = 199, fin = 349)
     elif args.site == "elle":
-        liste_liens = get_liens(colonne_liens_id, debut = 304, fin = 454)
+        liste_liens = get_liens(colonne_liens_id, debut = 349, fin = 500)
 
     get_texte(liste_liens, args.site)
 

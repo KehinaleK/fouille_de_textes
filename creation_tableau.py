@@ -35,14 +35,36 @@ def get_textes(dossier):
    
     return liste_textes
 
+
+
+def lemmatisation(liste_textes):
+
+    import spacy 
+    nlp = spacy.load("fr_core_news_md")
+
+    liste_textes_lemma = []
+    for texte in liste_textes:
+        doc = nlp(texte)
+        liste_texte_lemma = []
+        for mot in doc:
+            lemme = mot.lemma_
+            liste_texte_lemma.append(lemme)
+        texte_lemma = " ".join(liste_texte_lemma)
+        liste_textes_lemma.append(texte_lemma)
+
+    return liste_textes_lemma
+
+
 ##### ON INSERT LES TEXTES DANS LE TABLEAU "LIENS" ET ON EN CRÉER UN NOUVEAU #####
-def insertion_textes(liste_textes, colonnes):
+def insertion_textes(liste_textes, colonnes, liste_textes_lemma):
 
     liens = colonnes.columns.get_loc("liens")
 
     avant = colonnes.iloc[:, : liens+1]
     après = colonnes.iloc[:, liens+1 :]
     avant["textes"] = liste_textes
+    avant["textes_lemma"] = liste_textes_lemma
+
 
     tableau = pd.concat([avant, après], axis=1)
     print(tableau)
@@ -53,7 +75,9 @@ def main():
 
     colonnes = get_table()
     liste_textes = get_textes(dossier = Path("dumps-traites"))
-    insertion_textes(liste_textes, colonnes)
+    liste_textes_lemma = lemmatisation(liste_textes)
+    insertion_textes(liste_textes, colonnes, liste_textes_lemma)
+   
 
 if __name__ == "__main__":
     main()

@@ -2,7 +2,7 @@
 
 
 
-Soupe pommes, betteraves, noisettes pour 4 personnes - Recettes - Elle à Table
+Bouillon d’herbes à la dinde épicée pour 4 personnes - Recettes - Elle à Table
 
 
 
@@ -570,22 +570,22 @@ Recettes de cuisine
 
 
 
-            betterave
+            dinde
         
 
 
 
-            pommes
+            soupes chaudes
         
 
 
 
-            entrées faciles
+            light
         
 
 
 
-            entrées pas chères
+            alicaments
         
 
 
@@ -619,8 +619,8 @@ Partager sur pinterest
 
 
 
-Soupe pommes, betteraves, noisettes
-Une soupe acidulée qui plaît beaucoup aux petits !
+Bouillon d’herbes à la dinde épicée
+Un plat sain, réconfortant, et parfumé.
 
 
 
@@ -628,7 +628,7 @@ Une soupe acidulée qui plaît beaucoup aux petits !
 
 
 
-            © Carrie Solomon
+            © Valéry Guedes
         
 
 
@@ -648,7 +648,7 @@ Nombre de personnes
 
 Temps de préparation
 
-10 min.
+20 min.
 
 
 
@@ -657,7 +657,7 @@ Temps de préparation
 
 Temps de cuisson
 
-20 min.
+25 min.
 
 
 Difficulté
@@ -684,7 +684,7 @@ Bon marché
 
 
 
-Note : 3.45 sur 5
+Note : 3.5 sur 5
 
 Noter cette recette
 
@@ -707,7 +707,7 @@ Noter cette recette
 
 
 
-56 notes
+6 notes
 
 
 
@@ -719,7 +719,7 @@ Noter cette recette
 
 
 
-Note : 3.45 sur 5
+Note : 3.5 sur 5
 
 Noter cette recette
 
@@ -742,7 +742,7 @@ Noter cette recette
 
 
 
-56 notes
+6 notes
 
 
 
@@ -781,28 +781,40 @@ Ingrédients
 
 2
 							
-							pommes golden
-100
-							g
-							de pommes de terre
-500
-							g
-							de betteraves cuites sous vide
-
-							
-							quelques noisettes
-75
-							g
-							crème fraîche
-4
-							cuillère(s) à soupe
-							d'estragon frais
-
-							
-							fleur de sel
+							blancs de dinde
 1
 							cuillère(s) à café
-							d'huile de noisette
+							de garam masala
+1
+							
+							pointe de Tabasco
+1
+							cuillère(s) à soupe
+							de miel
+1
+							
+							citron vert bio
+1
+							cuillère(s) à café
+							de gingembre râpé
+2
+							
+							oignons nouveaux avec leur tige
+1/2
+							
+							bouquet de persil
+1/2
+							
+							bouquet de thym
+1/2
+							
+							bouquet de coriandre
+3
+							
+							feuilles de laurier
+2
+							cuillère(s) à soupe
+							d'huile de noisette ou de sésame
 
 
 
@@ -811,17 +823,14 @@ Ingrédients
 Préparation
 
 
-Épluchez les betteraves, les pommes et les pommes de terre. Coupez-les en dés.
+Enduisez les blancs de dinde avec le garam masala et le Tabasco, le miel, le jus et le zeste râpé du citron, le gingembre, puis salez et poivrez. Massez-les pour que les épices pénètrent bien dans la chair.
 
 
 
-Faites-les cuire 20 mn dans une casserole avec 1,2 l d’eau salée et 3 cuil. à soupe d’estragon.
+Faites cuire la viande dans une poêle anti-adhésive sans matière grasse, 5 mn de chaque côté. Laissez-les refroidir avant de les couper en fines lamelles. Réservez.
 
 
-Mixez finement. Ajoutez la crème fraîche au moment de servir. Concassez les noisettes.
-
-
-Décorez d’estragon frais et de noisettes. Ajoutez l’huile de noisette et un peu de fleur de sel au moment de servir.
+Émincez finement les oignons et leur vert. Rincez les herbes et ciselez la moitié. Dans une casserole, faites revenir les oignons 2 mn dans l’huile très chaude. Versez 1,2l d’eau et portez à ébullition. Ajoutez les herbes ciselées et non ciselées, le laurier, laissez cuire à petits bouillons 10 mn. Après 5 mn, retirez le laurier, ajoutez les lamelles de dinde. Dégustez bien chaud.
 
 
 
@@ -831,10 +840,10 @@ L'astuce
 
 
 
- Carrie Solomon, née aux États-Unis et Parisienne d’adoption, est photographe et cuisinière. Son livre « Une Américaine à Paris » (Éditions de La Martinière) a inspiré les cartes du Coffee Club (6e) et du Miss Kale (2e). Son dernier ouvrage : « Mangez de saison ! » (Éditions de La Martinière).Instagram @carrie_in_paris
+Servez avec un Beaujolais Villages, Sylvère Trichard, Séléné 2019, blanc.
 
 
-3.45 sur 5
+3.5 sur 5
 
 Noter cette recette
 
@@ -857,7 +866,7 @@ Noter cette recette
 
 
 
-56 notes
+6 notes
 
 
 
@@ -890,7 +899,7 @@ Envie denoter cette recette ?
 
 
 
-56 notes
+6 notes
 
 
 
@@ -928,7 +937,7 @@ Défilement carousel précédent
 
 
 
-                  Gnocchis de betteraves, noisettes, feta
+                  Demi-poires farcies à l’italienne et à la fourme d’Ambert
                 
 
 
@@ -945,7 +954,7 @@ Défilement carousel précédent
 
 
 
-                  Betteraves rôties et dukkah aux noisettes
+                  Gratin d’oeufs durs et fondue d’oignons à la sauce Mornay
                 
 
 
@@ -962,7 +971,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe haddock et pommes de terre
+                  Salade d’agrumes à la fleur d'oranger
                 
 
 
@@ -979,7 +988,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe poireaux et pommes de terre, tartines de reblochon
+                  Bouillon d’ail à la sauge et au poulet
                 
 
 
@@ -996,7 +1005,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe aux deux betteraves et feta
+                  Gâteau à l’huile d’olive et à l’orange
                 
 
 
@@ -1013,7 +1022,7 @@ Défilement carousel précédent
 
 
 
-                  Brioches pommes, raisins et noisettes
+                  Bouillon à la thaïe aux crevettes
                 
 
 
@@ -1030,7 +1039,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe de pommes aux agrumes
+                  Bouillon d'oignons au kombu 
                 
 
 
@@ -1047,7 +1056,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe de pommes de terre au citron
+                  Escalopes de dinde à l'orange et à la menthe
                 
 
 
@@ -1064,7 +1073,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe aux betteraves
+                  Dinde à l'orange et à la menthe
                 
 
 
@@ -1091,7 +1100,59 @@ Thèmes associés
 
 
 
-Recettes aux oléagineux
+Recettes détox
+
+
+
+
+
+
+
+
+
+
+
+
+Recettes d'hiver
+
+
+
+
+
+
+
+
+
+
+
+
+Recettes de plats pas chers
+
+
+
+
+
+
+
+
+
+
+
+
+Recettes de plats faciles
+
+
+
+
+
+
+
+
+
+
+
+
+Recettes équilibrées
 
 
 
@@ -1130,7 +1191,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1146,7 +1207,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1162,7 +1223,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1178,7 +1239,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1194,7 +1255,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1217,7 +1278,20 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
+Menu de la semaine : des idées recettes du lundi 6 au dimanche 12 mai
+
+
+
+
+
+
+
+
+
+
+
+
+Pour fêter le retour des beaux jours, misez sur un brunch de printemps
 
 
 
@@ -1231,7 +1305,7 @@ Rouge, blanc, champagne : 20 délicieuses recettes au vin
 
 
 Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Comment bien conserver la pomme de terre selon la saison 
 
 
 
@@ -1244,7 +1318,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Quelle huile pour quel plat ?
 
 
 
@@ -1257,21 +1331,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Les conserves de poisson ont tout bon
 
 
 
@@ -1284,6 +1344,14 @@ Toutes les infos Elle à Table
 
 
  
+
+
+
+
+
+
+
+
  
 
 

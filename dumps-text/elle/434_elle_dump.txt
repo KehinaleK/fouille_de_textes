@@ -2,7 +2,7 @@
 
 
 
-Boisson chia, amande, betterave pour 1 personnes - Recettes - Elle à Table
+Le vrai coulant au chocolat  pour 4 personnes - Recettes - Elle à Table
 
 
 
@@ -570,22 +570,22 @@ Recettes de cuisine
 
 
 
-            betterave
+            goûter
         
 
 
 
-            smoothie
+            cuisine d'enfant
         
 
 
 
-            sans cuisson
+            desserts express
         
 
 
 
-            amandes
+            desserts petit prix
         
 
 
@@ -619,17 +619,14 @@ Partager sur pinterest
 
 
 
-Boisson chia, amande, betterave
-Une boisson où se mêlent des saveurs de betterave, de rose, et d'amandes.
+Le vrai coulant au chocolat 
+Une recette simple et efficace pour tous les fans de chocolat. 
 
 
 
 
 
 
-
-            © Carrie Solomon
-        
 
 
 
@@ -639,7 +636,7 @@ Une boisson où se mêlent des saveurs de betterave, de rose, et d'amandes.
 
 Nombre de personnes
 
-1 personne
+4 personnes
 
 
 
@@ -648,12 +645,30 @@ Nombre de personnes
 
 Temps de préparation
 
-5 min.
+15 min.
+
+
+
+
+
+
+Temps de cuisson
+
+7 min.
+
+
+
+
+
+
+Calories.
+
+550 Cal/pers.
 
 
 Difficulté
 
-Très facile
+Facile
 
 
 
@@ -675,7 +690,7 @@ Bon marché
 
 
 
-Note : 3.92 sur 5
+Note : 4.34 sur 5
 
 Noter cette recette
 
@@ -698,7 +713,7 @@ Noter cette recette
 
 
 
-12 notes
+2445 notes
 
 
 
@@ -710,7 +725,7 @@ Noter cette recette
 
 
 
-Note : 3.92 sur 5
+Note : 4.34 sur 5
 
 Noter cette recette
 
@@ -733,7 +748,7 @@ Noter cette recette
 
 
 
-12 notes
+2445 notes
 
 
 
@@ -756,6 +771,11 @@ Sauvegardé
 
 
 
+
+
+
+
+
 Une recette élaborée par la rédaction de
 
 
@@ -770,24 +790,21 @@ Une recette élaborée par la rédaction de
 
 Ingrédients
 
-20
+200
 							g
-							d'amandes
-3
-							cuillère(s) à café
-							d'eau de rose
-125
+							de chocolat noir
+70
 							g
-							de graines de chia
-1
-							cuillère(s) à soupe
-							de jus de betterave
-1
-							cuillère(s) à soupe
-							d'huile de coco
-25
+							de beurre
+4
+							
+							oeufs
+70
 							g
-							de sirop d'érable
+							de sucre
+50
+							g
+							de farine
 
 
 
@@ -796,15 +813,24 @@ Ingrédients
 Préparation
 
 
-Versez l’eau de rose, le jus de betterave, l’huile et le sirop d’érable dans un blender.
+Faites fondre au micro-ondes le chocolat noir cassé en morceaux avec le beurre.
 
 
 
-Ajoutez les amandes, les graines de chia et mixez.
+Fouettez les œufs et le sucre jusqu’à ce que le mélange blanchisse et devienne mousseux. Incorporez le chocolat tiédi, mélangez bien.
+
+
+Ajoutez ensuite la farine à la spatule en bois.
+
+
+Répartissez la pâte dans des moules beurrés et farinés ou dans des cercles munis de papier sulfurisé.
+
+
+Enfournez à th. 6-7/220° pendant 7 mn, puis laissez reposer 2 mn avant de démouler les coulants.
 
 
 
-3.92 sur 5
+4.34 sur 5
 
 Noter cette recette
 
@@ -827,7 +853,7 @@ Noter cette recette
 
 
 
-12 notes
+2445 notes
 
 
 
@@ -860,7 +886,7 @@ Envie denoter cette recette ?
 
 
 
-12 notes
+2445 notes
 
 
 
@@ -898,7 +924,7 @@ Défilement carousel précédent
 
 
 
-                  Boisson anti-gueule de bois chou céleri
+                  Gâteau au chocolat noir, glaçage chocolat
                 
 
 
@@ -915,7 +941,7 @@ Défilement carousel précédent
 
 
 
-                  Boisson anti-stress banane coco
+                  Coulant au chocolat noir
                 
 
 
@@ -932,7 +958,7 @@ Défilement carousel précédent
 
 
 
-                  Chia bowl
+                  Coulant chocolat, glace mangue
                 
 
 
@@ -949,7 +975,7 @@ Défilement carousel précédent
 
 
 
-                  Ricotta d’amande
+                  Cake chocolat, glaçage caramel-chocolat 
                 
 
 
@@ -966,7 +992,7 @@ Défilement carousel précédent
 
 
 
-                  Betterave latte vegan
+                  Muffins au chocolat, coeur chocolat blanc
                 
 
 
@@ -983,7 +1009,7 @@ Défilement carousel précédent
 
 
 
-                  Crème de chia choco-coco 
+                  Chocolat au chocolat
                 
 
 
@@ -1000,7 +1026,7 @@ Défilement carousel précédent
 
 
 
-                  Chia fizz
+                  Bûche chocolat-chocolat
                 
 
 
@@ -1017,7 +1043,7 @@ Défilement carousel précédent
 
 
 
-                  Petits fondants amande orange
+                  Gâteau chocolat noir et chocolat blanc
                 
 
 
@@ -1034,7 +1060,7 @@ Défilement carousel précédent
 
 
 
-                  Betterave à la provençale
+                  Truffes au chocolat, chocolat au lait-Passion
                 
 
 
@@ -1061,7 +1087,7 @@ Thèmes associés
 
 
 
-Recettes de jus
+Recettes à préparer en 15 minutes
 
 
 
@@ -1074,7 +1100,46 @@ Recettes de jus
 
 
 
-Recettes aux oléagineux
+Recettes de desserts faciles
+
+
+
+
+
+
+
+
+
+
+
+
+Recettes de gâteaux au chocolat
+
+
+
+
+
+
+
+
+
+
+
+
+Desserts de Saint-Valentin
+
+
+
+
+
+
+
+
+
+
+
+
+Recettes de desserts pas chers
 
 
 
@@ -1113,7 +1178,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1129,7 +1194,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1145,7 +1210,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1161,7 +1226,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1177,7 +1242,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1200,7 +1265,20 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
+Menu de la semaine : des idées recettes du lundi 6 au dimanche 12 mai
+
+
+
+
+
+
+
+
+
+
+
+
+Pour fêter le retour des beaux jours, misez sur un brunch de printemps
 
 
 
@@ -1214,7 +1292,7 @@ Rouge, blanc, champagne : 20 délicieuses recettes au vin
 
 
 Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Comment bien conserver la pomme de terre selon la saison 
 
 
 
@@ -1227,7 +1305,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Quelle huile pour quel plat ?
 
 
 
@@ -1240,21 +1318,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Les conserves de poisson ont tout bon
 
 
 
@@ -1267,6 +1331,14 @@ Toutes les infos Elle à Table
 
 
  
+
+
+
+
+
+
+
+
  
 
 

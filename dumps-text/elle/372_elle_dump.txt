@@ -2,7 +2,7 @@
 
 
 
-Salade de fraises, roquette et jambon cru pour 1 personnes - Recettes - Elle à Table
+Carpaccio de céleri-rave, purée d'avocat pour 8 personnes - Recettes - Elle à Table
 
 
 
@@ -570,22 +570,22 @@ Recettes de cuisine
 
 
 
-            sans cuisson
+            céleri-rave
         
 
 
 
-            été
+            carpaccio
         
 
 
 
-            entrées faciles
+            vegan
         
 
 
 
-            entrées froides
+            paléo
         
 
 
@@ -619,8 +619,7 @@ Partager sur pinterest
 
 
 
-Salade de fraises, roquette et jambon cru
-La fraise en deux versions : crue et en vinaigrette.
+Carpaccio de céleri-rave, purée d'avocat
 
 
 
@@ -628,7 +627,7 @@ La fraise en deux versions : crue et en vinaigrette.
 
 
 
-            © Akiko Ida
+            © Marie-Pierre Morel
         
 
 
@@ -639,7 +638,7 @@ La fraise en deux versions : crue et en vinaigrette.
 
 Nombre de personnes
 
-1 personne
+8 personnes
 
 
 
@@ -648,12 +647,21 @@ Nombre de personnes
 
 Temps de préparation
 
-10 min.
+15 min.
+
+
+
+
+
+
+Temps de cuisson
+
+75 min.
 
 
 Difficulté
 
-Très facile
+Facile
 
 
 
@@ -675,7 +683,7 @@ Bon marché
 
 
 
-Note : 4.27 sur 5
+Note : 4.25 sur 5
 
 Noter cette recette
 
@@ -698,7 +706,7 @@ Noter cette recette
 
 
 
-11 notes
+4 notes
 
 
 
@@ -710,7 +718,7 @@ Noter cette recette
 
 
 
-Note : 4.27 sur 5
+Note : 4.25 sur 5
 
 Noter cette recette
 
@@ -733,7 +741,7 @@ Noter cette recette
 
 
 
-11 notes
+4 notes
 
 
 
@@ -770,24 +778,44 @@ Une recette élaborée par la rédaction de
 
 Ingrédients
 
-50
-							g
-							de fraises
-4
-							cuillère(s) à soupe
-							d'huile d'olive
 1
-							cuillère(s) à soupe
-							de vinaigre balsamique
-100
-							g
-							de roquette
+							
+							céleri-rave moyen
+1
+							
+							botte de coriandre
+
+							
+							fleur de sel
+
+purée d'avocat
 2
 							
-							tranches de jambon cru type jambon de Parme
-4
+							avocats
+60
+							cl
+							de lait de soja
+
 							
-							brins de basilic
+							le jus de 2 citrons verts
+6
+							cl
+							d'huile d'olive
+
+							
+							mayonnaise vegan
+10
+							cl
+							de lait de soja
+30
+							cl
+							d'huile de pépin de raisin
+20
+							g
+							de raifort
+1
+							
+							pincée de fleur de sel
 
 
 
@@ -796,15 +824,36 @@ Ingrédients
 Préparation
 
 
-Rincez les fraises rapidement sous l’eau froide et équeutez-les. Mixez la moitié des fraises avec l’huile d’olive, le vinaigre balsamique, une pincée de sel et une pincée de poivre noir.
+Préchauffez le four à 180 °C (th 6). Lavez et essuyez le céleri-rave sans le peler. Emballez-le dans du papier aluminium, posez-le dans un plat et enfournez-le pendant 50 mn à 1 h 15 (en fonction de sa taille).
 
 
 
-Dans un saladier, mélangez l’autre moitié des fraises coupées en grosses rondelles avec la roquette et les tranches de jambon déchirées en petites lanières, parsemez de basilic lavé et ciselé. Servez avec la vinaigrette à la fraise.
+Laissez-le refroidir pendant une nuit.
+
+
+Pelez le céleri-rave avec un grand couteau et tranchez-le à la mandoline en fines lamelles de 2 mm.
+
+
+Mixez tous les ingrédients de la purée d’avocat dans un robot. Disposez-la sur les assiettes, en répartissant 5 cuillerées à café sur cinq points, posez les tranches de céleri harmonieusement.
+
+
+Mélangez les ingrédients de la mayonnaise au batteur électrique.
+
+
+Disposez de petites perles de mayonnaise sur le carpaccio puis la coriandre ciselée. Salez si besoin. Dégustez.
 
 
 
-4.27 sur 5
+
+L'astuce
+
+
+
+
+« Un mets beau, bon et vegan. »Tsuyoshi Miyazaki, ancien second du Passage 53, apporte sa touche gastronomique à l’histoire de Noglu, qui prône une cuisine saine et délicate. Noglu, 38, rue de Saintonge, Paris-3e.Tél. : 01 42 71 15 34.
+
+
+4.25 sur 5
 
 Noter cette recette
 
@@ -827,7 +876,7 @@ Noter cette recette
 
 
 
-11 notes
+4 notes
 
 
 
@@ -860,7 +909,7 @@ Envie denoter cette recette ?
 
 
 
-11 notes
+4 notes
 
 
 
@@ -898,7 +947,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de tomates et de fraises
+                  Carpaccio d’agneau et caviar d’aubergine
                 
 
 
@@ -915,7 +964,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de crudités, fraises et framboises
+                  Carpaccio d’artichauts
                 
 
 
@@ -932,7 +981,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de fraises, petits pois et avocat
+                  Velouté de céleri-rave et fourme d’Ambert
                 
 
 
@@ -949,7 +998,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de tomates et pastèque, jambon de pays et poivrons
+                  Carpaccio de chou-rave asiatique
                 
 
 
@@ -966,7 +1015,7 @@ Défilement carousel précédent
 
 
 
-                  Salade roquette, jambon, feta et noisettes
+                  Carpaccio d'espadon aux agrumes
                 
 
 
@@ -983,7 +1032,7 @@ Défilement carousel précédent
 
 
 
-                  Salade fraises et boulettes de veau
+                  Tartines de patate douce, purée d’avocat
                 
 
 
@@ -1000,7 +1049,7 @@ Défilement carousel précédent
 
 
 
-                  Salade d'abricots grillés, jambon de Parme, burrata, basilic et roquette
+                  Médaillons de céleri-rave, purée de potimarron
                 
 
 
@@ -1017,7 +1066,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de ravioles croquantes et jambon cru
+                  Céleri-rave aux pommes
                 
 
 
@@ -1034,7 +1083,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de jambon cru
+                  Carpaccio de thon, céleri et pamplemousse
                 
 
 
@@ -1061,46 +1110,7 @@ Thèmes associés
 
 
 
-Recettes aux fraises
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de salades composées
-
-
-
-
-
-
-
-
-
-
-
-
 Recettes d'entrées pas chères
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes d'entrées rapides
 
 
 
@@ -1139,7 +1149,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1155,7 +1165,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1171,7 +1181,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1187,7 +1197,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1203,7 +1213,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1226,7 +1236,20 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
+Menu de la semaine : des idées recettes du lundi 6 au dimanche 12 mai
+
+
+
+
+
+
+
+
+
+
+
+
+Pour fêter le retour des beaux jours, misez sur un brunch de printemps
 
 
 
@@ -1240,7 +1263,7 @@ Rouge, blanc, champagne : 20 délicieuses recettes au vin
 
 
 Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Comment bien conserver la pomme de terre selon la saison 
 
 
 
@@ -1253,7 +1276,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Quelle huile pour quel plat ?
 
 
 
@@ -1266,21 +1289,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Les conserves de poisson ont tout bon
 
 
 
@@ -1293,6 +1302,14 @@ Toutes les infos Elle à Table
 
 
  
+
+
+
+
+
+
+
+
  
 
 

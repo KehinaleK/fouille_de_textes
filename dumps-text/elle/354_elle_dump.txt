@@ -2,7 +2,7 @@
 
 
 
-Soupe céleri pommes pour 6 personnes - Recettes - Elle à Table
+Soupe poireaux, kale, carottes pour 2 personnes - Recettes - Elle à Table
 
 
 
@@ -570,22 +570,12 @@ Recettes de cuisine
 
 
 
-            céleri-rave
+            kale
         
 
 
 
-            soupes chaudes
-        
-
-
-
-            repas de famille
-        
-
-
-
-            cuisine entre copines
+            détox
         
 
 
@@ -619,13 +609,16 @@ Partager sur pinterest
 
 
 
-Soupe céleri pommes
+Soupe poireaux, kale, carottes
 
 
 
 
 
 
+
+            © Getty
+        
 
 
 
@@ -635,7 +628,7 @@ Soupe céleri pommes
 
 Nombre de personnes
 
-6 personnes
+2 personnes
 
 
 
@@ -644,7 +637,7 @@ Nombre de personnes
 
 Temps de préparation
 
-10 min.
+5 min.
 
 
 
@@ -653,12 +646,12 @@ Temps de préparation
 
 Temps de cuisson
 
-30 min.
+25 min.
 
 
 Difficulté
 
-Facile
+Très facile
 
 
 
@@ -680,7 +673,7 @@ Bon marché
 
 
 
-Note : 3.46 sur 5
+Note : 3.56 sur 5
 
 Noter cette recette
 
@@ -703,7 +696,7 @@ Noter cette recette
 
 
 
-94 notes
+134 notes
 
 
 
@@ -715,7 +708,7 @@ Noter cette recette
 
 
 
-Note : 3.46 sur 5
+Note : 3.56 sur 5
 
 Noter cette recette
 
@@ -738,7 +731,7 @@ Noter cette recette
 
 
 
-94 notes
+134 notes
 
 
 
@@ -761,12 +754,6 @@ Sauvegardé
 
 
 
-Une recette élaborée par la rédaction de
-
-
-
-
-
 
 
 
@@ -775,30 +762,34 @@ Une recette élaborée par la rédaction de
 
 Ingrédients
 
-1
-							
-							boule de céleri
 2
 							
-							pommes
+							poireaux
 1
-							l
-							de bouillon de volaille
+							
+							chou kale
+2
+							
+							carottes
+1
+							
+							fenouil
+1
+							
+							oignon
 3
 							
-							brins de persil
-4
-							
-							feuilles de sauge
-1
-							
-							pincée de piment d'espelette
-1
-							
-							filet d'huile de noix
+							branches de céleri
+
+curcuma
 
 							
-							sel, poivre du moulin
+							fleurs de thym
+
+persil
+
+							
+							poivre noir
 
 
 
@@ -807,27 +798,12 @@ Ingrédients
 Préparation
 
 
-Epluchez le céleri et les pommes, coupez-les en morceaux.
-
-
-
-Faites-les cuire dans le bouillon pendant 30 mn avec un peu de sel et de poivre, le persil et la sauge.
-
-
-Mixez la soupe à l’aide d’un blender ou d’un mixeur plongeant en ajoutant le piment d’Espelette et l’huile de noix. Servez cette soupe avec des tranches de bon pain de campagne grillées.
+Faites cuire 25 mn dans 1 litre d’eau 2 poireaux, 1 chou kale, 2 carottes, 1 fenouil, 1 oignon et 3 branches de céleri. Mixez et assaisonnez de curcuma, fleurs de thym, persil haché et poivre noir. Salez très légèrement.
 
 
 
 
-L'astuce
-
-
-
-
-Vous pouvez remplacer les pommes par des poires et ajouter des petits morceaux de morbier au moment de servir.
-
-
-3.46 sur 5
+3.56 sur 5
 
 Noter cette recette
 
@@ -850,7 +826,7 @@ Noter cette recette
 
 
 
-94 notes
+134 notes
 
 
 
@@ -883,7 +859,7 @@ Envie denoter cette recette ?
 
 
 
-94 notes
+134 notes
 
 
 
@@ -921,41 +897,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe haddock et pommes de terre
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  Soupe céleri-rave, poulet mariné et soja
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  Soupe pommes, betteraves, noisettes
+                  Soupe de lentilles au tofu fumé
                 
 
 
@@ -989,7 +931,7 @@ Défilement carousel précédent
 
 
 
-                  Céleri-rave aux pommes
+                  Soupe butternut épicée au citron 
                 
 
 
@@ -1006,7 +948,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe de châtaignes et de céleri-rave 
+                  Soupe à l'orange, carottes, patates douces et coco 
                 
 
 
@@ -1023,7 +965,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe montagnarde au céleri-rave
+                  Soupe fraîche à l'avocat 
                 
 
 
@@ -1040,7 +982,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe de pommes aux agrumes
+                  Soupe kale, brocoli, chou vert et chou romanesco
                 
 
 
@@ -1057,7 +999,41 @@ Défilement carousel précédent
 
 
 
-                  Soupe de pommes de terre au citron
+                  Soupe detox aux navets
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Soupe détox aux légumes
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Soupe froide apéro
                 
 
 
@@ -1067,258 +1043,6 @@ Défilement carousel précédent
 
 Défilement carousel suivant
 
-
-
-
-
-
-
-Thèmes associés
-
-
-
-
-
-
-
-
-
-
-Recettes à préparer à l'avance
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes pour recevoir belle-maman
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes bluffantes
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de repas d'enfant
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes étonnantes
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes pour le dimanche soir
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes bonnes résolutions
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de veloutés
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes à préparer en 15 minutes
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes light et gourmandes
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes essentielles
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes aux pommes
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de grand-mère
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes vitaminées
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes pour recevoir ses beaux parents
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de potages
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes d'entrées faciles
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes d'entrées pas chères
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes d'entrées rapides
 
 
 
@@ -1357,7 +1081,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1373,7 +1097,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1389,7 +1113,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1405,7 +1129,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1421,7 +1145,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1444,7 +1168,20 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
+Menu de la semaine : des idées recettes du lundi 6 au dimanche 12 mai
+
+
+
+
+
+
+
+
+
+
+
+
+Pour fêter le retour des beaux jours, misez sur un brunch de printemps
 
 
 
@@ -1458,7 +1195,7 @@ Rouge, blanc, champagne : 20 délicieuses recettes au vin
 
 
 Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Comment bien conserver la pomme de terre selon la saison 
 
 
 
@@ -1471,7 +1208,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Quelle huile pour quel plat ?
 
 
 
@@ -1484,21 +1221,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Les conserves de poisson ont tout bon
 
 
 
@@ -1511,6 +1234,14 @@ Toutes les infos Elle à Table
 
 
  
+
+
+
+
+
+
+
+
  
 
 

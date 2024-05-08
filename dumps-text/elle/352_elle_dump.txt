@@ -2,7 +2,7 @@
 
 
 
-Céleri rémoulade pour 6 personnes - Recettes - Elle à Table
+Gnocchis de betteraves, noisettes, feta pour 4 personnes - Recettes - Elle à Table
 
 
 
@@ -570,7 +570,22 @@ Recettes de cuisine
 
 
 
-            céleri-rave
+            betterave
+        
+
+
+
+            pommes de terre
+        
+
+
+
+            automne
+        
+
+
+
+            hiver
         
 
 
@@ -604,7 +619,8 @@ Partager sur pinterest
 
 
 
-Céleri rémoulade
+Gnocchis de betteraves, noisettes, feta
+Fondants et à la couleur éclatante !
 
 
 
@@ -612,7 +628,7 @@ Céleri rémoulade
 
 
 
-            © Sucré salé
+            © Caroline Lesguillons
         
 
 
@@ -623,7 +639,7 @@ Céleri rémoulade
 
 Nombre de personnes
 
-6 personnes
+4 personnes
 
 
 
@@ -632,7 +648,7 @@ Nombre de personnes
 
 Temps de préparation
 
-25 min.
+30 min.
 
 
 
@@ -641,7 +657,7 @@ Temps de préparation
 
 Temps de cuisson
 
-2 min.
+45 min.
 
 
 Difficulté
@@ -668,7 +684,7 @@ Bon marché
 
 
 
-Note : 3 sur 5
+Note : 3.67 sur 5
 
 Noter cette recette
 
@@ -691,7 +707,7 @@ Noter cette recette
 
 
 
-1 note
+12 notes
 
 
 
@@ -703,7 +719,7 @@ Noter cette recette
 
 
 
-Note : 3 sur 5
+Note : 3.67 sur 5
 
 Noter cette recette
 
@@ -726,7 +742,7 @@ Noter cette recette
 
 
 
-1 note
+12 notes
 
 
 
@@ -749,6 +765,12 @@ Sauvegardé
 
 
 
+Une recette élaborée par la rédaction de
+
+
+
+
+
 
 
 
@@ -757,33 +779,34 @@ Sauvegardé
 
 Ingrédients
 
-1
-							kg
-							de céleri rave
-1
-							
-							citron
-3
-							
-							tomates
-12
-							
-							olives noires
-15
+600
 							g
-							de persil en branches
-
-							
-							sauce rémoulade :
-30
+							de pommes de terre
+250
 							g
-							de câpres
+							de betterave cuite
+150
+							g
+							de feta
+100
+							g
+							de yaourt grec
+250
+							g
+							de farine
+1
+							
+							oeuf
 20
 							g
-							persil cerfeuil estragon
-3
-							dl
-							de mayonnaise 
+							de beurre
+
+noisettes
+
+persil
+
+							
+							sel et poivre du moulin
 
 
 
@@ -792,27 +815,42 @@ Ingrédients
 Préparation
 
 
-Éplucher le céleri, le frotter au citron, le tailler en julienne.
+Faites cuire les pommes de terre avec leur peau dans un grand volume d’eau bouillante pendant 30 à 40 mn, jusqu’à ce qu’elles soient tendres.
 
 
 
-Blanchir celle-ci 2 minutes à l'eau bouillante salée. Refroidir puis égoutter.
+Mixez la betterave au robot. Réservez.
 
 
-Monder les tomates, les couper en quartiers.
+Préparez la crème de feta en mixant la feta avec le yaourt grec au robot, jusqu’à obtenir une texture lisse. Réservez au réfrigérateur.
 
 
-Hacher les câpres, le persil, le cerfeuil et l'estragon. Les mélanger à la mayonnaise.
+Égouttez les pommes de terre, épluchez-les, réduisez-les en purée tant qu’elles sont chaudes et mélangez à la purée de betterave, la farine, le sel et le poivre.
 
 
-Ajouter le céleri. Dresser.
+Ajoutez l’oeuf et pétrissez jusqu’à obtenir une boule de pâte homogène.
 
 
-Garnir avec les quartiers de tomates et les olives noires tout autour. Placer 1 bouquet de persil au centre.
+Façonnez les gnocchis. Détaillez la boule de pâte farinée en 4 morceaux, faites-en 4 boudins, puis coupez des gnocchis de 3 cm dedans. Farinez.
+
+
+Faites cuire les gnocchis dans un grand volume d’eau bouillante salée pendant 2 à 3 mn, ou jusqu’à ce qu’ils remontent à la surface. Sortez-les ensuite à l’aide d’une écumoire, puis faites-les revenir dans une poêle avec du beurre pour les griller.
+
+
+Faites torréfier quelques noisettes dans une poêle. Dressez les assiettes en disposant la crème de feta, les gnocchis et les noisettes. Ajoutez du persil haché, assaisonnez selon votre goût et dégustez.
 
 
 
-3 sur 5
+
+L'astuce
+
+
+
+
+Quand le plaisir de cuisiner et celui de consommer les légumes de saison s’associent, cela donne « Tous les légumes » de Caroline Lesguillons (éd. Webedia books). Plus de 160 recettes inspirées pour ravir les papilles toute l’année.
+
+
+3.67 sur 5
 
 Noter cette recette
 
@@ -835,7 +873,7 @@ Noter cette recette
 
 
 
-1 note
+12 notes
 
 
 
@@ -868,7 +906,7 @@ Envie denoter cette recette ?
 
 
 
-1 note
+12 notes
 
 
 
@@ -906,7 +944,7 @@ Défilement carousel précédent
 
 
 
-                  Céleri, nori, vadouvan
+                  Betteraves rôties et dukkah aux noisettes
                 
 
 
@@ -923,7 +961,7 @@ Défilement carousel précédent
 
 
 
-                  Céleri, soba, safran
+                  Salade roquette, jambon, feta et noisettes
                 
 
 
@@ -940,7 +978,7 @@ Défilement carousel précédent
 
 
 
-                  Cabillaud, céleri rémoulade
+                  Gnocchis de butternut
                 
 
 
@@ -957,7 +995,7 @@ Défilement carousel précédent
 
 
 
-                  Crème froide de bisque, rémoulade de tourteau et céleri-rave
+                  Soupe pommes, betteraves, noisettes
                 
 
 
@@ -974,7 +1012,7 @@ Défilement carousel précédent
 
 
 
-                  Céleri-rave aux pommes
+                  Soupe aux deux betteraves et feta
                 
 
 
@@ -991,7 +1029,7 @@ Défilement carousel précédent
 
 
 
-                  Céleri-rave à la sauce rémoulade
+                  Gnocchis fourrés aux herbes
                 
 
 
@@ -1008,7 +1046,7 @@ Défilement carousel précédent
 
 
 
-                  Rémoulade de céleri au haddock
+                  Betteraves à la feta et beurre noisette
                 
 
 
@@ -1025,7 +1063,7 @@ Défilement carousel précédent
 
 
 
-                  Rémoulade de céleri aux oeufs
+                  Gnocchis de patates douces 
                 
 
 
@@ -1042,7 +1080,7 @@ Défilement carousel précédent
 
 
 
-                  Céleri au paprika
+                  Gnocchis de polenta gratinés
                 
 
 
@@ -1052,6 +1090,24 @@ Défilement carousel précédent
 
 Défilement carousel suivant
 
+
+
+
+
+
+
+Thèmes associés
+
+
+
+
+
+
+
+
+
+
+Recettes de plats pas chers
 
 
 
@@ -1090,7 +1146,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1106,7 +1162,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1122,7 +1178,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1138,7 +1194,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1154,7 +1210,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1177,7 +1233,20 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
+Menu de la semaine : des idées recettes du lundi 6 au dimanche 12 mai
+
+
+
+
+
+
+
+
+
+
+
+
+Pour fêter le retour des beaux jours, misez sur un brunch de printemps
 
 
 
@@ -1191,7 +1260,7 @@ Rouge, blanc, champagne : 20 délicieuses recettes au vin
 
 
 Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Comment bien conserver la pomme de terre selon la saison 
 
 
 
@@ -1204,7 +1273,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Quelle huile pour quel plat ?
 
 
 
@@ -1217,21 +1286,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Les conserves de poisson ont tout bon
 
 
 
@@ -1244,6 +1299,14 @@ Toutes les infos Elle à Table
 
 
  
+
+
+
+
+
+
+
+
  
 
 

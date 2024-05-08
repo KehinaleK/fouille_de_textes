@@ -5,7 +5,8 @@
 
 
 
-Moussaka : Recette de Moussaka
+Gaspacho aux carottes et à la menthe fraîche : Recette de Gaspacho aux carottes et à la menthe fraîche
+
 
 
 
@@ -260,17 +261,17 @@ Prix Marmiton 2023
 
 
 
-Accueil > Recettes > plat principal > plat unique > moussaka > Moussaka
+Accueil > Recettes > entrée > entrée froide > gaspacho, soupe froide > Gaspacho aux carottes et à la menthe fraîche
 
 
-Moussaka
+Gaspacho aux carottes et à la menthe fraîche
 
 
 
 Pas de saison
-Plat principal
-Plat unique
-Moussaka
+Entrée
+Entrée froide
+Gaspacho, soupe froide
 
 
 
@@ -281,42 +282,14 @@ Moussaka
 
 
 
- 4.4/5
+ 4.3/5
 
 
 
 
 
 
-                52 commentaires            
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-		Ekaterina Smirnova / istock / Getty Images	
-
+                16 commentaires            
 
 
 
@@ -330,23 +303,51 @@ Moussaka
 
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+		Marmiton	
+
+
+
+
+
+
+
+
+
+
+
+
  
 
  
 
-+ 3
+ 
+
++ 2
 
 
 
 
 
 
-1h25
+55 min
 
 ●
 
 
-facile
+très facile
 
 ●
 
@@ -419,112 +420,6 @@ Copier le lien
 
 
 
-
- 
- 
- 
-
-
-
-
- 
-
-50
-
-                                            g                                        
-
-                                    de                                     
-                                        gruyère râpé                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-30
-
-                                            g                                        
-
-                                    de                                     
-                                        farine                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-30
-
-                                            g                                        
-
-                                    de                                     
-                                        beurre                                    
-
-                                        ou de margarine                                    
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-2
-
-
-
-
-                                        tomates                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-1
-
-                                            demi                                        
-
-                                    de                                     
-                                        cube de bouillon                                    
-
-
-
- 
-
-
  
  
  
@@ -561,69 +456,6 @@ Copier le lien
 
 
                                         poivre                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-1
-
-                                            cuillère à soupe                                        
-
-                                    de                                     
-                                        persil                                    
-
-                                        haché                                    
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-2
-
-                                            cuillères à soupe                                        
-
-                                    de                                     
-                                        purée de tomate                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-2
-
-
-
-
-                                        oignons                                    
 
 
 
@@ -660,12 +492,33 @@ Copier le lien
 
  
 
-2
+0.5
 
 
 
 
-                                        aubergines                                    
+                                        cube de bouillon                                    
+
+                                        de légumes                                    
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+7
+
+
+
+
+                                        carottes                                    
 
 
 
@@ -681,9 +534,30 @@ Copier le lien
 
 
 
-2
+12
 
-                                            gousses                                        
+                                            feuilles                                        
+
+                                    de                                     
+                                        menthe                                    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+1
+
+                                            gousse                                        
 
                                     d'                                    
                                         ail                                    
@@ -691,154 +565,6 @@ Copier le lien
 
 
 
-
-
-
- 
-
-
-
-
-
-
-
-500
-
-                                            g                                        
-
-                                    de                                     
-                                        viande hachée                                    
-
-                                        de mouton maigre (ou boeuf)                                    
-
-
-
-
-
- 
-
-
-
-
-
-
-
-5
-
-                                            cl                                        
-
-                                    d'                                    
-                                        eau                                    
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-2
-
-
-
-
-                                        pommes de terre                                    
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-30
-
-                                            cl                                        
-
-                                    de                                     
-                                        lait                                    
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-2
-
-
-
-
-                                        oeufs                                    
-
-
-
-
-
-Pour la sauce béchamel :
-
- 
- 
- 
-
-
-
-
- 
-
-
-
-
-
-
-                                        sel                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-
-
-
-
-
-                                        poivre                                    
-
-
-
- 
 
 
 
@@ -864,10 +590,10 @@ La suite après cette publicité
  
 
 
-                            1                            pinceau                        
+                            1                            Couteau                        
 
 
-6,72€
+Top des meilleurs couteaux de cuisine
 
 + de détails 
 
@@ -888,22 +614,34 @@ Notre sélection des meilleures poêles
  
 
 
-                            1                            Four                        
+                            1                            Couvercle                        
 
 
-Top des meilleurs fours
+Les meilleures ventes
 
-+ de détails 
+Acheter 
 
 
 
  
 
 
-                            1                            Râpe                        
+                            1                            Mixeur                        
 
 
-Top des meilleures râpes
+Les meilleures ventes
+
+Acheter 
+
+
+
+ 
+
+
+                            1                            Réfrigérateur                        
+
+
+Notre top des mini réfrigérateurs
 
 + de détails 
 
@@ -918,30 +656,6 @@ Top des meilleures râpes
 Les meilleures ventes
 
 Acheter 
-
-
-
- 
-
-
-                            1                            balance de cuisine                        
-
-
-Top des meilleures balances
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            plat                        
-
-
-
-
-+ de détails 
 
 
 
@@ -961,12 +675,12 @@ Voir moins
 
 
 Temps total : 
-1h25
+55 min
 
 
 
 Préparation :
-45 min
+30 min
 
 
 Repos :
@@ -974,7 +688,7 @@ Repos :
 
 
 Cuisson :
-40 min
+25 min
 
 
 
@@ -985,57 +699,49 @@ Cuisson :
 
 Étape 1
 
+ 
 
-Lavez et essuyez les aubergines. Coupez-les en tranches, salez et laissez dégorger pendant 1 h. Pendant ce temps,
+
+Peler et couper grossièrement les carottes. Les plonger dans l'eau bouillante 10 min environ. Les couper ensuite en rondelles.
 
 
 
 Étape 2
 
+ 
 
-coupez les tomates et les pommes de terre en tranches.
+
+Faire chauffer 1 cuillère à café d'huile d'olive et y faire revenir l'ail pressé et les carottes. Cuire pendant 5 minutes.
 
 
 
 Étape 3
 
 
-Faites ensuite dorer les tranches d'aubergine à l'huile d'olive des deux côtés. Egouttez-les soigneusement sur du papier absorbant.
+Couvrir d'eau et ajouter le bouillon de légumes. Laisser cuire 10 minutes.
 
 
 
 Étape 4
 
+ 
 
-Dans une poêle, faites revenir la viande, l'oignon et l'ail hachés dans un peu d'huile. Ajoutez la purée de tomates, le persil, l'assaisonnement et le bouillon. Remuez sans arrêt pendant cette cuisson (15 min environ).
+
+Faire infuser la menthe hors du feu. Saler et poivrer.
 
 
 
 Étape 5
 
 
-Dans un plat profond allant au four, disposez une couche de viande, une couche de tomates, une couche d'aubergines, une couche de pommes de terre.
+Passer le tout au mixeur.
 
 
 
 Étape 6
 
 
-Préparez une sauce béchamel avec le beurre, la farine et le lait. Assaisonnez, ajoutez les jaunes d'oeufs hors du feu et le fromage râpé. Incorporez ensuite les blancs d'oeufs battus en neige(facultatif).
-
-
-
-Étape 7
-
-
-Versez cette sauce dans le plat et passez à four chaud pendant 40 min.
-
-
-
-Étape 8
-
-
-Servez bien chaud, dans le plat de cuisson.
+Mettre au frais une bonne heure.
 
 
 
@@ -1045,9 +751,10 @@ Servez bien chaud, dans le plat de cuisson.
 
 
 
-M
-Mathilda a Dublin
+c
+camila_14704006
 
+Voir toutes les recettes
 
 
 
@@ -1061,7 +768,7 @@ La suite après cette publicité
 
 
 
-                Découvrez les meilleurs accords mets et vins autour des viandes rouges avec                 
+                Découvrez l’accord Mets & Vins parfait avec                 
 
 
 
@@ -1107,21 +814,7 @@ Vous aimerez aussi…
  
 
 
-Moussaka rapide 
-
-
-
-
- 
-
- 
-
-
-				4.5/5            
-
-
-	  43 avis  
-
+glace à la menthe fraîche 
 
 
 
@@ -1131,7 +824,7 @@ Moussaka rapide
  
 
 
-Moussaka facile 
+Jus de citron à la menthe fraîche 
 
 
 
@@ -1141,10 +834,10 @@ Moussaka facile
  
 
 
-				4.5/5            
+				4.4/5            
 
 
-	  17 avis  
+	  10 avis  
 
 
 
@@ -1155,7 +848,7 @@ Moussaka facile
  
 
 
-La Vraie Moussaka Grecque 
+Petit farci et sa menthe fraîche 
 
 
 
@@ -1165,13 +858,10 @@ La Vraie Moussaka Grecque
  
 
 
-				4.9/5            
+				3/5            
 
 
-	  988 avis  
-
-
-
+	  1 avis  
 
 
 
@@ -1184,7 +874,10 @@ La Vraie Moussaka Grecque
 
 
 
-                Commentaires (52)    
+
+
+
+                Commentaires (16)    
 
 
 La recette est terminée.
@@ -1198,35 +891,35 @@ Donnez votre avis
 
 
 
-s
+G
 
-sabrina59211
+Gxkz65wqk
 
- 2/5
-
-
+ 5/5
 
 
 
-                                                Boff... rien à voir avec la recette original... je déconseille                     
-
-                        05/11/2023 14:50
 
 
+                                                Un classique que j'aime bien faire l'été, accompagné d'une verrine de betterave au boursin et un quartier de melon, le tout sur de la salade et quelques tomares cerises. Tout le monde en redemande.                    
 
-D
-
-Ddhk16nxg
-
- 2/5
+                        31/10/2023 11:59
 
 
-1
+
+O
+
+Omuh66eec
+
+ 5/5
 
 
-                                                Sacrilège !! Manque la cannelle ! Une particularité du goût Moussaka, c'est bien la cannelle salée!! Pour le reste, on peut varier les plaisirs : béchamel ou sauce blanche plus light, noix de muscade, miel, piment doux, laurier, mouton ou boeuf haché,etc ...                    
 
-                        31/10/2023 15:08
+
+
+                                                Recette très facile et très rapide! On peut aussi remplacer l'infusion des feuilles de menthe par du thé vert à la menthe, c'est super bon!                    
+
+                        31/10/2023 11:59
 
 
 
@@ -1252,75 +945,112 @@ Plus de recettes
 
 
 
-					Moussaka facile au poulet				
+					Salade fraîche d'été				
 
 
 
-					Moussaka à la grecque				
+					Crème de framboise et menthe fraîche				
 
 
 
-					moussaka facile à ma façon				
+					Mille feuilles d'aubergines au chèvre et à la menthe fraîche				
 
 
 
-					Moussaka grecque				
+					Spaghetti à la menthe fraîche				
 
 
 
-					Moussaka au boeuf				
+					Pâtes fraîches				
 
 
 
-					Lasagnes de moussaka				
+					Tarte à la crème fraîche				
 
 
 
-					Moussaka aux courgettes				
+					Sauce à la crème fraîche				
 
 
 
-					moussaka à la turque				
+					Croque courgette, menthe fraîche et jambon blanc				
 
 
 
-					Moussaka aux épices				
+					Confiture de melon, citron et menthe fraîche				
 
 
 
-					Moussaka 'light'				
+					Carottes rapées au miel, au gingembre et à la menthe fraîche				
 
 
 
-					Moussaka bulgare				
+					Salade de pommes de terre froides à la menthe fraîche				
 
 
 
-					Moussaka au thon				
+					Soupe de melon glacée à la menthe fraîche				
 
 
 
-					Moussaka vegane				
+					Salade de pâtes fraîche pour l'été 				
 
 
 
-					Tarte à la moussaka				
+					Beignets de courgette à la féta et à la menthe fraîche				
 
 
 
-					Moussaka au mouton				
+					brochettes fraîches d'été				
 
 
 
-					Moussaka acidulée				
+					Tomates fraîches d'été				
 
 
 
-					Moussaka rapide et légère				
+					Tarte de carottes à la menthe				
 
 
 
-					Moussaka de veau				
+					Clafoutis de cerises noires à la menthe fraîche				
+
+
+
+
+
+
+
+
+
+
+
+Ces contenus devraient vous intéresser
+
+
+
+
+					5 recettes de salades froides pour affronter la chaleur durant tout l'été !				
+
+
+
+					Anti-gaspi : que faire avec des fanes de carottes ?				
+
+
+
+					Choisir et cuisiner les carottes, ce légume aux qualités nombreuses				
+
+
+
+					Comment faire un vrai gaspacho andalou ?				
+
+
+
+					Vague de chaleur : nos recettes express de gaspacho pour un repas léger et rafr				
+
+
+
+					Carotte				
 
 
 

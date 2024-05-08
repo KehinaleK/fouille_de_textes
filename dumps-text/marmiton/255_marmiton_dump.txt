@@ -5,8 +5,7 @@
 
 
 
-Filet de boeuf Wellington : Recette de Filet de boeuf Wellington
-
+Carpaccio melon mozza jambon cru : Recette de Carpaccio melon mozza jambon cru
 
 
 
@@ -259,16 +258,18 @@ Prix Marmiton 2023
 
 
 
-Accueil > Recettes > Filet de boeuf Wellington
+Accueil > Recettes > entrée > entrée froide > carpaccio > Carpaccio melon mozza jambon cru
 
 
-Filet de boeuf Wellington
+Carpaccio melon mozza jambon cru
 
 
 
-De saison
-Plat principal
-Recettes anglaises                    
+Pas de saison
+Entrée
+Gluten free
+Entrée froide
+Carpaccio
 
 
 
@@ -286,7 +287,7 @@ Recettes anglaises
 
 
 
-                16 commentaires            
+                18 commentaires            
 
 
 
@@ -313,30 +314,30 @@ Recettes anglaises
 
 
  
-		Crédits :	gerenme/E+/getty images	
+		shutterstock	
 
 
 
 
  
-1/4
+1/3
 
 
 
 
 
 
-35 min
+30 min
 
 ●
 
 
-facile
+très facile
 
 ●
 
 
-moyen
+bon marché
 
 
 
@@ -413,79 +414,58 @@ Copier le lien
 
  
 
-300
 
-                                            g                                        
+
+
+
+
+                                        poivre                                    
+
+                                        du moulin aux 5 baies                                    
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+2
+
+
+
+
+                                        melons                                    
+
+                                        mûrs à point                                    
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+2
+
+                                            boules                                        
 
                                     de                                     
-                                        pâte feuilletée                                    
+                                        mozzarella                                    
+
+                                        de bufflone (plus goûteuse)                                    
 
 
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-1
-
-                                            cuillère à soupe                                        
-
-                                    d'                                    
-                                        origan                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-50
-
-                                            g                                        
-
-                                    d'                                    
-                                        oignon                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-50
-
-                                            g                                        
-
-                                    d'                                    
-                                        huile                                    
-
-                                        végétale                                    
-
- 
 
 
 
@@ -497,14 +477,14 @@ Copier le lien
 
 
 
-700
+6
 
-                                            g                                        
+                                            tranches                                        
 
                                     de                                     
-                                        boeuf                                    
+                                        jambon cru                                    
 
-                                        préparé                                    
+                                        (serrano par exemple)                                    
 
 
 
@@ -518,12 +498,12 @@ Copier le lien
 
 
 
-150
+20
 
-                                            g                                        
+                                            cl                                        
 
                                     de                                     
-                                        champignon                                    
+                                        muscat                                    
 
 
 
@@ -539,12 +519,12 @@ Copier le lien
 
 
 
+3
 
+                                            brins                                        
 
-
-
-
-                                        herbes de Provence                                    
+                                    de                                     
+                                        menthe                                    
 
 
 
@@ -574,10 +554,22 @@ La suite après cette publicité
  
 
 
-                            1                            pôele                        
+                            1                            économe                        
 
 
-Le top des poêles
+Top 5 des meilleurs économe
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            couteau                        
+
+
+Top 3 des couteaux
 
 + de détails 
 
@@ -598,22 +590,10 @@ Acheter
  
 
 
-                            1                            Mixeur                        
+                            1                            Réfrigérateur                        
 
 
-Les meilleures ventes
-
-Acheter 
-
-
-
- 
-
-
-                            1                            pinceau                        
-
-
-6,72€
+Notre top des mini réfrigérateurs
 
 + de détails 
 
@@ -622,22 +602,10 @@ Acheter
  
 
 
-                            1                            Couvercle                        
+                            1                            Lot de verrines                        
 
 
-Les meilleures ventes
-
-Acheter 
-
-
-
- 
-
-
-                            1                            Rouleau à pâtisserie                        
-
-
-Top des meilleurs rouleaux à pâtisserie
+Top des meilleures verrines
 
 + de détails 
 
@@ -646,19 +614,7 @@ Top des meilleurs rouleaux à pâtisserie
  
 
 
-                            1                            Four                        
-
-
-top des meilleurs fours
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            friteuse                        
+                            1                            fourchette                        
 
 
 
@@ -670,10 +626,22 @@ top des meilleurs fours
  
 
 
-                            1                            balance de cuisine                        
+                            1                            planche à découper                        
 
 
-Top des meilleures balances
+Top des meilleures planches à découper
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            assiette                        
+
+
+
 
 + de détails 
 
@@ -695,12 +663,12 @@ Voir moins
 
 
 Temps total : 
-35 min
+30 min
 
 
 
 Préparation :
-20 min
+30 min
 
 
 Repos :
@@ -708,7 +676,7 @@ Repos :
 
 
 Cuisson :
-15 min
+-
 
 
 
@@ -720,7 +688,7 @@ Cuisson :
 Étape 1
 
 
-Saler et poivrer le filet des deux côtés. Le cuire à la poêle, 5 min de chaque côté. Laisser refroidir.
+Version Carpaccio à l'assiette :
 
 
 
@@ -729,7 +697,7 @@ Saler et poivrer le filet des deux côtés. Le cuire à la poêle, 5 min de chaq
  
 
 
-Faire revenir les oignons grossièrement hachés, les champignons en morceaux et les herbes dans de l’huile. Ensuite, hacher finement le mélange en duxelles. 
+Couper les melons en 2, les éplucher et les épépiner.
 
 
 
@@ -738,53 +706,143 @@ Faire revenir les oignons grossièrement hachés, les champignons en morceaux et
  
 
 
-Etaler la pâte feuilletée en une abaisse de 3 mm. Répartir la moitié de la duxelles de champignons, poser le filet dessus, puis le recouvrir du reste de duxelles. Refermer la pâte feuilletée sur le filet (souder les bords avec de l’eau), dorer avec un jaune d’oeuf battu.
+Découper de fines lamelles et le mettre dans un saladier avec le muscat et la menthe ciselée.
 
 
 
 Étape 4
 
 
-Mettre cuire à four chaud (250°C) pendant 15 à 20 min, selon la cuisson désirée.
+Filmer le saladier et mettre au frais.
 
 
 
 Étape 5
 
- 
 
-
-Servir avec une sauce au vin blanc et aux herbes. 
+Au moment de servir :
 
 
 
 Étape 6
 
+ 
 
-Accompagnement : petits légumes, carottes, brocolis, pois mange-tout et croquettes de pommes de terre.
+
+Découper de fines tranches de mozzarella et de fines lamelles de jambon cru.
 
 
 
 Étape 7
 
-
-Pour les croquettes, cuire 1 kg de pommes de terre à l’eau, bien égoutter et sécher au four. Les réduire en purée. Ajouter 5 oeufs entiers, sel et poivre et 50 gr de farine. Façonner les croquettes à la main, puis rouler dans la farine, dans 1 oeuf entier battu et dans la chapelure. Faire frire à la poêle jusqu’à ce qu’elles soient dorées.
-
+ 
 
 
-
+Dresser les assiettes en intercalant, une lamelle de melon, une lamelle de mozzarella, une lamelle de jambon et renouveler jusqu'à épuisement des ingrédients.
 
 
 
+Étape 8
+
+ 
 
 
-c
-camila_15261979
+Ajouter quelques cuillères de la marinade du melon sur les assiettes, quelques tours de moulin à poivre et servir.
+
+
+
+Étape 9
+
+
+Version Verrine :
+
+
+
+Étape 10
+
+ 
+
+
+Découper les melons en 2, les épépiner.
+
+
+
+Étape 11
+
+ 
+
+
+Prélever à l'aide d'une cuillère parisienne des petites boules de melon et les disposer dans un saladier.
+
+
+
+Étape 12
+
+ 
+
+
+Ajouter le muscat et la menthe ciselée, quelques tours de moulin à poivre, filmer le saladier et réserver au frais.
+
+
+
+Étape 13
+
+ 
+
+
+Découper la mozzarella en dés.
+
+
+
+Étape 14
+
+ 
+
+
+Dans les verrines, incorporer des billes de melons et des dès de mozzarella, puis verser un peu de marinade...
+
+
+
+Étape 15
+
+ 
+
+
+Sur un pique en bois type mini-brochette, piquer le jambon cru que vous aurez préalablement préparé en ôtant le gras et découpant des lamelles (afin de faciliter la dégustation).
+
+
+
+Étape 16
+
+ 
+
+
+Déposer la mini-brochette de jambon sur le dessus du verre.
+
+
+
+Étape 17
+
+
+Servir bien frais.
+
+
+
+
+
+
+
+
+
+m
+mia_15936088
 
 Voir toutes les recettes
 
 Note de l'auteur :
-« Photo de Manina Hatzimichali »
+« Préparer le melon quelques heures avant le repas pour qu'il puisse mariner...
+Juste avant le repas, préparer la mozzarella et le jambon, dresser et servir bien frais.
+Entrée ou plat principal pour l'été car très frais et très léger... »
 
 
 
@@ -797,7 +855,7 @@ La suite après cette publicité
 
 
 
-                Découvrez les meilleurs accords mets et vins autour des viandes rouges avec                 
+                Découvrez les meilleurs accords mets et vins autour des fromages avec                 
 
 
 
@@ -843,7 +901,55 @@ Vous aimerez aussi…
  
 
 
-filet de boeuf Wellington (en croûte) 
+Carpaccio de melon 
+
+
+
+
+ 
+
+ 
+
+
+				4.5/5            
+
+
+	  13 avis  
+
+
+
+
+
+
+
+ 
+
+
+tarte mozza jambon cru 
+
+
+
+
+ 
+
+ 
+
+
+				4.4/5            
+
+
+	  5 avis  
+
+
+
+
+
+
+
+ 
+
+
+Carpaccio melon ricotta 
 
 
 
@@ -864,20 +970,6 @@ filet de boeuf Wellington (en croûte)
 
 
 
- 
-
-
-Mini boeufs Wellington 
-
-
-
-
-
-
- 
-
-
-Boeuf Wellington aux champignons de Paris 
 
 
 
@@ -886,13 +978,7 @@ Boeuf Wellington aux champignons de Paris
 
 
 
-
-
-
-
-
-
-                Commentaires (16)    
+                Commentaires (18)    
 
 
 La recette est terminée.
@@ -906,25 +992,9 @@ Donnez votre avis
 
 
 
-A
+L
 
-Anonyme
-
- 4/5
-
-
-1
-
-
-                                                Pour éviter que la pâte feuilleté se perce, j'enveloppe d'abord mon rôti dans une crêpe. Cela permet de garder du croustillant.                    
-
-                        31/10/2023 10:51
-
-
-
-A
-
-Anonyme
+Lodq45gof
 
  5/5
 
@@ -932,9 +1002,25 @@ Anonyme
 
 
 
-                                                Excellent ! J'ai mis champignons de Paris et girolles plus carottes, poireaux et ail dans la duxelle. J'ai suivi les commentaires et bien fait refroidir la duxelle et la viande avant de mettre dans la pâte feuilletée. Pour 500g, cuire 20 min à 200 degrés.                    
+                                                Excellent et original ! C'est frais, léger, une entrée idéale pour les repas d'été.                    
 
-                        31/10/2023 10:51
+                        31/10/2023 11:51
+
+
+
+Y
+
+Yqcv31wnl
+
+ 5/5
+
+
+
+
+
+                                                Très frais et marinade excellente. Le melon le lendemain est encore meilleur s'il est resté dans la marinade. Par contre, la mozza n'est vraiment pas facile à ocuper en fines tranches                     
+
+                        31/10/2023 11:51
 
 
 
@@ -960,75 +1046,75 @@ Plus de recettes
 
 
 
-					Filet de boeuf en croûte				
+					Carpaccio de melon au poivre				
 
 
 
-					Filet de boeuf au porto				
+					Brochettes de mozza au jambon				
 
 
 
-					Filet de boeuf en croûte (facile)				
+					Carpaccio de boeuf				
 
 
 
-					Filet de boeuf rôti en persillade				
+					Carpaccio  de Saint Jacques :  la meilleure recette				
 
 
 
-					Filet de boeuf cuisson lente				
+					Soupe de melon 				
 
 
 
-					Filet de boeuf aux morilles				
+					Carpaccio de tomates				
 
 
 
-					Filet mignon de porc façon Wellington				
+					Carpaccio de courgettes				
 
 
 
-					Filet de boeuf en croûte et sauce au madère				
+					Cake chèvre et jambon cru				
 
 
 
-					Filet de boeuf en croûte au foie gras				
+					Carpaccio de cèpes				
 
 
 
-					Filet de boeuf en croûte aux champignons				
+					Les feuilletés au chèvre et jambon cru				
 
 
 
-					Filet de boeuf en croûte au foie gras et aux truffes				
+					Gratin courgettes jambon cru				
 
 
 
-					Wellington de butternut, poireaux et feta				
+					Melon aux crevettes				
 
 
 
-					Filet de boeuf en croûte aux poivres				
+					Salade de pâtes au melon et jambon cru				
 
 
 
-					Filet de boeuf de mémé Angèle				
+					Carpaccio de canard				
 
 
 
-					Filet de boeuf cuit à la ficelle				
+					Carpaccio de champignons				
 
 
 
-					Filet de boeuf en croûte à l'estragon				
+					Carpaccio de légumes				
 
 
 
-					Filet de boeuf en croûte feuilletée				
+					Mousse de melon				
 
 
 
-					Filet de boeuf aux échalotes confites				
+					Tartare de melon				
 
 
 
@@ -1045,27 +1131,27 @@ Ces contenus devraient vous intéresser
 
 
 
-					Comment cuire une côte de boeuf au barbecue ?				
+					Nos meilleures recettes d’entrées froides pour votre repas de Noël				
 
 
 
-					Que faire avec une boîte de ratatouille ?				
+					Mozzarella				
 
 
 
-					Champignon				
+					Découvrez les aliments qu’il faut à tout prix éviter de manger crus				
 
 
 
-					Nos recettes au boeuf pour Noël				
+					Melon : bien le choisir et le consommer				
 
 
 
-					Pâte feuilletée				
+					Que faire avec un melon trop mûr ?				
 
 
 
-					21 recettes de boulettes qui changent des boulettes de bÅuf classiques				
+					Ces aliments à ne surtout pas manger crus !				
 
 
 

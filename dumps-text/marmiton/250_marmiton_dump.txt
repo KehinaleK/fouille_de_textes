@@ -5,7 +5,9 @@
 
 
 
-Poisson cru mariné à la menthe : Recette de Poisson cru mariné à la menthe
+Velouté glacé à la courgette : Recette de Velouté glacé à la courgette
+
+
 
 
 
@@ -237,7 +239,7 @@ Prix Marmiton 2023
 
 Le magazine 
 
- Viva Italia 
+ Ramadan 
 
  100% pâtisserie 
 
@@ -257,17 +259,18 @@ Prix Marmiton 2023
 
 
 
-Accueil > Recettes > Poisson cru mariné à la menthe
+Accueil > Recettes > entrée > entrée chaude > soupe > Velouté glacé à la courgette
 
 
-Poisson cru mariné à la menthe
+Velouté glacé à la courgette
 
 
 
-Pas de saison
+De saison
 Entrée
-Gluten free
-Quick
+Entrée chaude
+Soupe
+Eté                    
 
 
 
@@ -278,28 +281,14 @@ Quick
 
 
 
- 4.3/5
+ 4.5/5
 
 
 
 
 
 
-                3 commentaires            
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
+                72 commentaires            
 
 
 
@@ -312,20 +301,34 @@ Quick
 
 
  
-		Manina Hatzimichali	
+
+
+
+
+
+
+
+
+
 
 
 
 
  
-1/1
+		marmiton	
+
+
+
+
+ 
+1/5
 
 
 
 
 
 
-15 min
+50 min
 
 ●
 
@@ -412,9 +415,51 @@ Copier le lien
 
  
 
-20
 
-                                            cl                                        
+
+
+
+
+                                        sel                                    
+
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+                                        poivre                                    
+
+                                        du moulin                                    
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+8
+
+                                            cuillères à soupe                                        
 
                                     d'                                    
                                         huile d'olive                                    
@@ -424,25 +469,67 @@ Copier le lien
  
 
 
-
+ 
+ 
  
 
 
 
 
+ 
+
+0.5
+
+                                            bouquet                                        
+
+                                    de                                     
+                                        coriandre                                    
+
+                                        frais                                    
+
+ 
+
+
+ 
+ 
+ 
 
 
 
-400
+
+ 
+
+2
+
+
+
+
+                                        oignons                                    
+
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+800
 
                                             g                                        
 
                                     de                                     
-                                        truite                                    
+                                        courgette                                    
 
 
 
-
+ 
 
 
 
@@ -454,28 +541,7 @@ Copier le lien
 
 
 
-
-
-
-
-
-                                        saumon                                    
-
-                                        ou poisson à chair blanche (préférez la truite)                                    
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
+1
 
 
 
@@ -496,14 +562,35 @@ Copier le lien
 
 
 
-10
+2
 
-                                            feuilles                                        
 
-                                    de                                     
-                                        menthe                                    
 
-                                        fraîche                                    
+
+                                        jaunes d'oeuf                                    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+1
+
+
+
+
+                                        bouillon de volaille                                    
+
+
 
 
 
@@ -531,10 +618,34 @@ La suite après cette publicité
  
 
 
-                            1                            Couteau                        
+                            1                            louche                        
 
 
-Top des meilleurs couteaux de cuisine
+Les meilleures ventes
+
+Acheter 
+
+
+
+ 
+
+
+                            1                            mixeur plongeant                        
+
+
+Les meilleures ventes
+
+Acheter 
+
+
+
+ 
+
+
+                            1                            sorbetière                        
+
+
+
 
 + de détails 
 
@@ -543,7 +654,19 @@ Top des meilleurs couteaux de cuisine
  
 
 
-                            1                            Cuillère en bois                        
+                            1                            cocotte                        
+
+
+
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            saladier                        
 
 
 Les meilleures ventes
@@ -555,12 +678,60 @@ Acheter
  
 
 
-                            1                            Couvercle                        
+                            1                            Four                        
+
+
+top des meilleurs fours
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            bol                        
+
+
+Top des saladiers
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            fourchette                        
+
+
+
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            Mixeur                        
 
 
 Les meilleures ventes
 
 Acheter 
+
+
+
+ 
+
+
+                            1                            film alimentaire                        
+
+
+
+
++ de détails 
 
 
 
@@ -579,10 +750,10 @@ Acheter
  
 
 
-                            1                            plat                        
+                            1                            Réfrigérateur                        
 
 
-
+Notre top des mini réfrigérateurs
 
 + de détails 
 
@@ -604,12 +775,12 @@ Voir moins
 
 
 Temps total : 
-15 min
+50 min
 
 
 
 Préparation :
-15 min
+30 min
 
 
 Repos :
@@ -617,7 +788,7 @@ Repos :
 
 
 Cuisson :
--
+20 min
 
 
 
@@ -628,15 +799,19 @@ Cuisson :
 
 Étape 1
 
+ 
 
-Désarêter les filets préalablement nettoyés sous l'eau froide (avec une pince c'est assez rapide).
+
+Pelez les oignons, puis émincez-les.
 
 
 
 Étape 2
 
+ 
 
-Détailler les filets en morceaux de 4 cm sur 2.
+
+Eliminez les extrémités des courgettes, rincez-les mais ne les pelez pas; et découpez-les en dés.
 
 
 
@@ -645,7 +820,7 @@ Détailler les filets en morceaux de 4 cm sur 2.
  
 
 
-Garnir un plat avec le poisson en évitant que les morceaux se chevauchent. Parsemer de menthe fraîche.
+Préparez le bouillon en faisant dissoudre la plaquette dans 3/4 de litre d'eau très chaude.
 
 
 
@@ -654,7 +829,7 @@ Garnir un plat avec le poisson en évitant que les morceaux se chevauchent. Pars
  
 
 
-Mélanger le jus de citron et l'huile d'olive.
+Dans une cocotte, chauffez 2 cuillères à soupe d'huile d'olive, puis faites-y blondir les oignons. 
 
 
 
@@ -663,14 +838,14 @@ Mélanger le jus de citron et l'huile d'olive.
  
 
 
-Recouvrir le poisson de l'huile citronnée (le poisson doit être totalement immergé).
+Ajoutez ensuite les dés de courgettes, mélangez; salez et poivrez, puis arrosez avec le bouillon.
 
 
 
 Étape 6
 
 
-Laisser macérer 12 heures (durée variable selon le degré de 'cuisson' du poisson désiré).
+Laissez cuire 20 min à couvert, sur feu doux.
 
 
 
@@ -679,7 +854,57 @@ Laisser macérer 12 heures (durée variable selon le degré de 'cuisson' du pois
  
 
 
-Réfrigération possible mais sortir le plat 1 heure avant de servir car l'huile est figée par le froid !
+Pressez le citron. 
+
+
+
+Étape 8
+
+ 
+
+
+Dans un bol, mélangez à la fourchette les jaunes d'oeufs avec le jus de citron et l'huile d'olive.
+
+
+
+Étape 9
+
+ 
+
+
+Quand la soupe est cuite, mixez-la, puis ajoutez la préparation aux jaunes d'oeufs sans cesser de mixer, vous devez obtenir un velouté.
+
+
+
+Étape 10
+
+
+Laissez refroidir, puis mettez au réfrigérateur, recouvert d'un film alimentaire.
+
+
+
+Étape 11
+
+ 
+
+
+Servez très frais dans des coupelles, en saupoudrant de ciboulette et de coriandre ciselées.
+
+
+
+Étape 12
+
+ 
+
+
+Vous pouvez ajoutez sur ce velouté des petits dés de courgette, des zestes de citron ou des dés de tomates cerise pour décorer.
+
+
+
+Étape 13
+
+
+Cette délicieuse soupe froide sera encore meilleure si vous la préparez la veille.
 
 
 
@@ -689,11 +914,13 @@ Réfrigération possible mais sortir le plat 1 heure avant de servir car l'huile
 
 
 
-l
-lucas_15250878
+L
+Linette
 
-Voir toutes les recettes
 
+Note de l'auteur :
+« Subtil et délicat.
+La coriandre peut être remplacée par les herbes aromatiques de votre choix comme la menthe poivrée par exemple ! »
 
 
 
@@ -706,7 +933,7 @@ La suite après cette publicité
 
 
 
-                Découvrez les meilleurs accords mets et vins autour des produits de la mer avec                 
+                Découvrez l’accord Mets & Vins parfait avec                 
 
 
 
@@ -752,17 +979,7 @@ Vous aimerez aussi…
  
 
 
-Poisson cru mariné express 
-
-
-
-
-
-
- 
-
-
-poisson cru mariné aux épices 
+Soupe glacée à la courgette 
 
 
 
@@ -772,10 +989,10 @@ poisson cru mariné aux épices
  
 
 
-				4.7/5            
+				4/5            
 
 
-	  6 avis  
+	  1 avis  
 
 
 
@@ -786,7 +1003,31 @@ poisson cru mariné aux épices
  
 
 
-Poissons crus marinés aux thés 
+velouté glacé express aux petits pois 
+
+
+
+
+ 
+
+ 
+
+
+				4.6/5            
+
+
+	  39 avis  
+
+
+
+
+
+
+
+ 
+
+
+Soupe glacée de courgette et petits légumes 
 
 
 
@@ -801,7 +1042,7 @@ Poissons crus marinés aux thés
 
 
 
-                Commentaires (3)    
+                Commentaires (72)    
 
 
 La recette est terminée.
@@ -815,25 +1056,9 @@ Donnez votre avis
 
 
 
-B
+n
 
-Benoit_Be
-
- 3/5
-
-
-
-
-
-                                                7/10 d'après mes invités.                    
-
-                        30/01/2022 17:21
-
-
-
-l
-
-louis_16184568
+ninie92350
 
  5/5
 
@@ -841,9 +1066,25 @@ louis_16184568
 
 
 
-                                                Recette simple, saine et excellente. Je rejoins toutefois l'avis précédent pour ajouter des "5 baies".                    
+                                                Très rafraichissant avec juste une touche d'acidité.                    
 
-                        28/02/2008 14:20
+                        31/10/2023 14:52
+
+
+
+A
+
+Anonyme
+
+ 5/5
+
+
+
+
+
+                                                Très bonne recette, très facile à faire.                    
+
+                        31/10/2023 14:52
 
 
 
@@ -869,75 +1110,75 @@ Plus de recettes
 
 
 
-					Poisson cru mariné à la tahitienne				
+					Velouté glacé de concombre à la menthe				
 
 
 
-					Poisson cru à la tahitienne				
+					Velouté glacé à l'avocat et au pamplemousse				
 
 
 
-					Thon cru mariné au citron				
+					Soupe à la courgette				
 
 
 
-					Saumon cru mariné au citron				
+					Velouté de courgette				
 
 
 
-					Canard cru mariné				
+					Thé glacé				
 
 
 
-					Poisson cru à la Tahitienne 				
+					Courgette farcie				
 
 
 
-					Brochettes de poulet mariné à la menthe				
+					Velouté glacé de menthe et petits pois au Thermomix				
 
 
 
-					Poisson cru au citron				
+					Gratin de courgette				
 
 
 
-					Saumon cru mariné				
+					Velouté glacé de menthe et petits pois au Cookeo				
 
 
 
-					Poisson cru à la chinoise				
+					Velouté glacé petit pois menthe et mouillettes au chèvre				
 
 
 
-					Salade de poisson cru				
+					Velouté glacé de menthe et petits pois au Companion				
 
 
 
-					Saumon cru mariné ('gravad lax' en suédois) 				
+					Velouté glacé de menthe et petits pois au Monsieur Cuisine				
 
 
 
-					Poke (poisson cru à la hawaienne)				
+					soupe de courgette				
 
 
 
-					Brochettes de thon cru mariné à l'huile de truffe				
+					Velouté glacé concombre-menthe (express & light)				
 
 
 
-					Brochettes de poisson et légumes croquants marinés à la menthe				
+					Velouté glacé courgettes basilic billes de mozzarella				
 
 
 
-					Roses de saumon (saumon cru mariné sur canapés)				
+					Velouté glacé onctueux au concombre et au yaourt				
 
 
 
-					Sauce pour poisson				
+					Velouté glacé de menthe et petits pois au Cooking Chef				
 
 
 
-					Cuisse de dinde marinée au four				
+					Velouté glacé de chou-fleur, roulés de jambon au fromage frais				
 
 
 
@@ -954,11 +1195,19 @@ Ces contenus devraient vous intéresser
 
 
 
-					Comment faire un poisson pané maison ?				
+					Que manger avec de la soupe ?				
 
 
 
-					Découvrez les aliments qu’il faut à tout prix éviter de manger crus				
+					4 légumes pour remplacer la courgette en attendant l’été				
+
+
+
+					Coriandre				
+
+
+
+					Courgette				
 
 
 
@@ -967,10 +1216,6 @@ Ces contenus devraient vous intéresser
 
 
 					Huile d'olive				
-
-
-
-					Menthe				
 
 
 

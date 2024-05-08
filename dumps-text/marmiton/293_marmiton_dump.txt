@@ -5,12 +5,7 @@
 
 
 
-Makrout : Recette de Makrout
-
-
-
-
-
+Coupes fromage blanc framboises : Recette de Coupes fromage blanc framboises
 
 
 
@@ -242,9 +237,9 @@ Prix Marmiton 2023
 
 Le magazine 
 
- Ramadan 
+ Viva Italia 
 
- Pâques 
+ 100% pâtisserie 
 
 Actus 
 
@@ -262,19 +257,18 @@ Prix Marmiton 2023
 
 
 
-Accueil > Recettes > dessert > gâteau > petits gâteaux > Makrout
+Accueil > Recettes > Coupes fromage blanc framboises
 
 
-Makrout
+Coupes fromage blanc framboises
 
 
 
-De saison
-Confiserie
-Petits gâteaux
-Gâteau
-Makrout
-Recettes du Ramadan                    
+Pas de saison
+Dessert
+Vegetarian
+Gluten free
+Quick
 
 
 
@@ -285,42 +279,14 @@ Recettes du Ramadan
 
 
 
- 4.5/5
+ 4.3/5
 
 
 
 
 
 
-                19 commentaires            
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-		ninitta / iStock / Getty Images Plus	
-
+                4 commentaires            
 
 
 
@@ -334,18 +300,33 @@ Recettes du Ramadan
 
  
 
- 
+
+
+
+
+
+
+
+
+
+
+
 
  
-
-+ 6
-
+		Marmiton.org	
 
 
 
 
+ 
+1/2
 
-55 min
+
+
+
+
+
+15 min
 
 ●
 
@@ -355,7 +336,7 @@ facile
 ●
 
 
-bon marché
+moyen
 
 
 
@@ -432,121 +413,58 @@ Copier le lien
 
  
 
-1
-
-
-
-
-                                        huile de friture                                    
-
-                                        (facultatif)                                    
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-1
-
-                                            pot                                        
-
-                                    de                                     
-                                        miel                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-1
-
-                                            pincée                                        
-
-                                    de                                     
-                                        sel                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
 100
 
                                             g                                        
 
                                     de                                     
-                                        beurre                                    
+                                        crème fraîche                                    
+
+                                        entière                                    
+
+ 
+
+
+ 
+ 
+ 
+
 
 
 
  
 
-
-
- 
-
-
-
-
-
-
-
-400
+150
 
                                             g                                        
 
                                     de                                     
-                                        semoule                                    
-
-                                        de blé dur moyenne                                    
-
-
+                                        sucre                                    
 
 
 
  
 
 
+ 
+ 
+ 
 
 
 
 
+ 
 
 500
 
                                             g                                        
 
                                     de                                     
-                                        pâte de dattes                                    
+                                        fromage blanc                                    
 
 
 
-
+ 
 
 
 
@@ -558,54 +476,12 @@ Copier le lien
 
 
 
-5
+300
 
-                                            cuillères                                        
+                                            g                                        
 
                                     de                                     
-                                        café                                    
-
-                                        d'eau de fleur d'oranger                                    
-
-
-
-
-
- 
-
-
-
-
-
-
-
-1
-
-                                            pincée                                        
-
-                                    de                                     
-                                        cannelle                                    
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-1
-
-                                            verre                                        
-
-                                    d'                                    
-                                        eau                                    
+                                        framboises                                    
 
 
 
@@ -635,10 +511,10 @@ La suite après cette publicité
  
 
 
-                            1                            Cuillère en bois                        
+                            1                            Fouet cuisine                        
 
 
-Les meilleures ventes
+Top 5 des meilleurs fouets
 
 Acheter 
 
@@ -647,60 +523,12 @@ Acheter
  
 
 
-                            1                            Micro-ondes                        
+                            1                            Cuillère en bois                        
 
 
-Le top des micro-ondes
+Les meilleures ventes
 
-+ de détails 
-
-
-
- 
-
-
-                            1                            Couteau                        
-
-
-Top des meilleurs couteaux de cuisine
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            Four                        
-
-
-Top des meilleurs fours
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            Top des meilleures plaques à four                        
-
-
-plaque à four
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            bol                        
-
-
-Top des saladiers
-
-+ de détails 
+Acheter 
 
 
 
@@ -716,22 +544,6 @@ Top des meilleures balances
 
 
 
- 
-
-
-                            1                            assiette                        
-
-
-
-
-+ de détails 
-
-
-
-Voir plus
-Voir moins
-
-
     En cliquant sur les liens, vous pouvez être redirigé vers d’autres pages de notre site, ou sur Amazon.fr
 
 
@@ -744,7 +556,7 @@ Voir moins
 
 
 Temps total : 
-55 min
+15 min
 
 
 
@@ -757,7 +569,7 @@ Repos :
 
 
 Cuisson :
-40 min
+-
 
 
 
@@ -771,16 +583,16 @@ Cuisson :
  
 
 
-Préparer une première pâte avec la semoule, le beurre, le sel, un verre d'eau et 4 cuillerées a café d'eau de fleur d'oranger.
+Battre le fromage blanc avec le sucre. 
 
 
 
 Étape 2
 
+ 
 
 
-
-Mélanger le tout et rouler la pâte de façon a obtenir un long boudin.
+Ecraser les deux-tiers des framboises et les incorporer au fromage blanc. 
 
 
 
@@ -789,46 +601,16 @@ Mélanger le tout et rouler la pâte de façon a obtenir un long boudin.
  
 
 
-Préparer une seconde pâte avec la pâte de dattes, la cannelle et la dernière cuillerée d'eau de fleur d'oranger, passer la au micro-ondes quelques secondes pour qu'elle soit plus malléable. Mélanger et constituer un second boudin.
+Fouetter la crème fraîche en chantilly et la mélanger délicatement au fromage. 
 
 
 
 Étape 4
 
-
-
-
-Creuser une tranchée dans la première pâte et y insérer la seconde puis rouler afin de fermer de façon homogène. Couper le boudin obtenu en losanges.
-
-
-
-Étape 5
-
-
-Cuisson : laisser cuire au four 5 min à 250°C puis 15 min à 150°C.
-
-
-
-Étape 6
-
-
-Ils ressortent toujours blancs alors je les passes quelques secondes dans un bain de friture.
-
-
-
-Étape 7
-
  
 
 
-Juste après la cuisson faire chauffer 1 min un bol de miel au micro-ondes et tremper chaque losanges dedans sur les 2 faces puis les installer sur une grille pour égoutter le surplus de miel.
-
-
-
-Étape 8
-
-
-Laisser refroidir dans une assiette en les séparant bien puis REGALEZ-VOUS !
+Répartir dans des coupes. Décorer avec les framboises entières. Servir très frais.  
 
 
 
@@ -838,10 +620,9 @@ Laisser refroidir dans une assiette en les séparant bien puis REGALEZ-VOUS !
 
 
 
-a
-anna_16985461
+A
+Annie de Romandie
 
-Voir toutes les recettes
 
 
 
@@ -901,7 +682,7 @@ Vous aimerez aussi…
  
 
 
-Makrout 
+Fromage blanc aux framboises 
 
 
 
@@ -911,7 +692,7 @@ Makrout
  
 
 
-Makrouts (Maroc) 
+Mousse au fromage blanc et framboises 
 
 
 
@@ -921,10 +702,10 @@ Makrouts (Maroc)
  
 
 
-				3.6/5            
+				5/5            
 
 
-	  20 avis  
+	  2 avis  
 
 
 
@@ -935,7 +716,7 @@ Makrouts (Maroc)
  
 
 
-Makrout el louz 
+Gâteau au fromage blanc et framboises (léger) 
 
 
 
@@ -945,13 +726,10 @@ Makrout el louz
  
 
 
-				4.8/5            
+				3.5/5            
 
 
-	  4 avis  
-
-
-
+	  11 avis  
 
 
 
@@ -964,7 +742,10 @@ Makrout el louz
 
 
 
-                Commentaires (19)    
+
+
+
+                Commentaires (4)    
 
 
 La recette est terminée.
@@ -978,9 +759,25 @@ Donnez votre avis
 
 
 
-d
+H
 
-drinou13
+Hgsb74sje
+
+ 3/5
+
+
+
+
+
+                                                Simple, rapide et très bon                    
+
+                        31/10/2023 10:45
+
+
+
+e
+
+emma_15335511
 
  5/5
 
@@ -988,26 +785,9 @@ drinou13
 
 
 
-                                                Je devais en faire, j'avais tout acheter à Tanger ...Et voilà, grâce à votre recette, je me suis lancée. Ces Makrouts sont excellents. J'ai suivi la recette et les conseils (ajout d'1 peu de farine pour éviter l'effritement). J'ai tout cuit à l'huile (pas de friteuse, pas de four oui mais solaire 🌞).
-Je me répète, c'est Makrouts sont excellents ni trop sucrés ni trop gras. Encore merci 🙏                    
+                                                Super bon ! Merci                     
 
-                        12/03/2023 21:41
-
-
-
-a
-
-aude21
-
- 5/5
-
-
-
-
-
-                                                Un pur délice                     
-
-                        03/04/2022 19:07
+                        12/10/2014 12:33
 
 
 
@@ -1033,11 +813,75 @@ Plus de recettes
 
 
 
-					Makrouts façon Baia				
+					Verrine de mousse de fromage blanc aux framboises				
 
 
 
-					Makrouts d’Eugénie à la pâte d’abricots (3ème rencontre Marmiton)				
+					Chocolats blancs à la framboise				
+
+
+
+					Tarte au chocolat blanc et framboises				
+
+
+
+					Faire du fromage blanc				
+
+
+
+					Cheesecake chocolat blanc framboises				
+
+
+
+					Verrines de mousse au chocolat blanc et framboises				
+
+
+
+					Tarte au chocolat blanc et framboises facile				
+
+
+
+					Gâteau magique au chocolat blanc et framboises				
+
+
+
+					Bavarois au chocolat blanc et aux framboises				
+
+
+
+					Tartelettes chocolat blanc framboise				
+
+
+
+					Dôme chocolat blanc framboise				
+
+
+
+					Financier chocolat blanc framboise				
+
+
+
+					TARTE AU FROMAGE BLANC				
+
+
+
+					Tarte au fromage blanc facile				
+
+
+
+					Tarte rapide au fromage blanc				
+
+
+
+					Coupes tiramisu express				
+
+
+
+					Coupe ananas				
+
+
+
+					Panna cotta chocolat blanc et framboise				
 
 
 
@@ -1054,19 +898,27 @@ Ces contenus devraient vous intéresser
 
 
 
-					Pâte de dattes				
+					Fromage blanc				
 
 
 
-					Café				
+					Comment conserver des blancs ou des jaunes dâÅufs pour plus tard ?				
 
 
 
-					Semoule				
+					Que faire à manger avec un reste de fromage râpé ?				
 
 
 
-					Cannelle				
+					Râpe à fromage : quel sera le meilleur modèle pour vous ?				
+
+
+
+					Quâest-ce que le label Bleu-Blanc-Coeur ?				
+
+
+
+					Comment bien découper les fromages ?				
 
 
 

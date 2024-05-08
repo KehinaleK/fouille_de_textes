@@ -2,7 +2,7 @@
 
 
 
-Risotto de sarrasin-potimarron pour 2 personnes - Recettes - Elle à Table
+Soupe pommes, betteraves, noisettes pour 4 personnes - Recettes - Elle à Table
 
 
 
@@ -570,22 +570,22 @@ Recettes de cuisine
 
 
 
-            végétariennes
+            betterave
         
 
 
 
-            automne
+            pommes
         
 
 
 
-            risotto
+            entrées faciles
         
 
 
 
-            courges
+            entrées pas chères
         
 
 
@@ -619,8 +619,8 @@ Partager sur pinterest
 
 
 
-Risotto de sarrasin-potimarron
-Si vous n’aimez pas le lait de coco, vous pouvez utiliser de la crème de soja ou de la crème fraîche.
+Soupe pommes, betteraves, noisettes
+Une soupe acidulée qui plaît beaucoup aux petits !
 
 
 
@@ -628,7 +628,7 @@ Si vous n’aimez pas le lait de coco, vous pouvez utiliser de la crème de soja
 
 
 
-            © Frédéric Lucano
+            © Carrie Solomon
         
 
 
@@ -639,7 +639,7 @@ Si vous n’aimez pas le lait de coco, vous pouvez utiliser de la crème de soja
 
 Nombre de personnes
 
-2 personnes
+4 personnes
 
 
 
@@ -662,7 +662,7 @@ Temps de cuisson
 
 Difficulté
 
-Très facile
+Facile
 
 
 
@@ -684,7 +684,7 @@ Bon marché
 
 
 
-Note : 4.02 sur 5
+Note : 3.45 sur 5
 
 Noter cette recette
 
@@ -707,7 +707,7 @@ Noter cette recette
 
 
 
-48 notes
+56 notes
 
 
 
@@ -719,7 +719,7 @@ Noter cette recette
 
 
 
-Note : 4.02 sur 5
+Note : 3.45 sur 5
 
 Noter cette recette
 
@@ -742,7 +742,7 @@ Noter cette recette
 
 
 
-48 notes
+56 notes
 
 
 
@@ -779,31 +779,30 @@ Une recette élaborée par la rédaction de
 
 Ingrédients
 
-160
-							g
-							de graines de sarrasin
-400
-							g
-							de potimarron cru épluché
 2
 							
-							oignons blancs
-2
+							pommes golden
+100
+							g
+							de pommes de terre
+500
+							g
+							de betteraves cuites sous vide
+
+							
+							quelques noisettes
+75
+							g
+							crème fraîche
+4
 							cuillère(s) à soupe
-							d'huile d'olive vierge extra
+							d'estragon frais
+
+							
+							fleur de sel
 1
-							
-							cube de bouillon de légumes
-6
-							cl
-							de lait de coco
-
-curry (à l'envi)
-
-cumin (à l'envi)
-
-							
-							sel, poivre
+							cuillère(s) à café
+							d'huile de noisette
 
 
 
@@ -812,23 +811,17 @@ cumin (à l'envi)
 Préparation
 
 
-Rincez les graines de sarrasin sous un filet d’eau froide.
+Épluchez les betteraves, les pommes et les pommes de terre. Coupez-les en dés.
 
 
 
-Pelez et coupez le potimarron en dés de taille moyenne, pelez et taillez les oignons en dés.
+Faites-les cuire 20 mn dans une casserole avec 1,2 l d’eau salée et 3 cuil. à soupe d’estragon.
 
 
-Faites chauffer dans une poêle l’huile d’olive et faites-y dorer les oignons. Ajoutez les graines de sarrasin et faites-les sauter 1 mn en mélangeant bien, afin que chaque grain s’imprègne du reste d’huile issue de la cuisson des oignons.
+Mixez finement. Ajoutez la crème fraîche au moment de servir. Concassez les noisettes.
 
 
-Diluez un cube de bouillon dans 300 ml d’eau chaude.
-
-
-Versez dans la poêle les dés de potimarron et le bouillon chaud. Assaisonnez de curry, de cumin et faites cuire à couvert pendant 15 mn à feu moyen (n’hésitez pas à ajouter davantage d’eau si les graines de sarrasin collent à la poêle).
-
-
-Versez, juste avant la fin de la cuisson, le lait de coco. Salez, poivrez et rectifiez l’assaisonnement en épices. Mélangez puis servez chaud.
+Décorez d’estragon frais et de noisettes. Ajoutez l’huile de noisette et un peu de fleur de sel au moment de servir.
 
 
 
@@ -838,10 +831,10 @@ L'astuce
 
 
 
-Connue sous le nom de @Drbonnebouffe, la diététicienne nutritionniste Nathalie Majcher fédère et sensibilise sa communauté à une alimentation plaisir, saine et simple. Dans « Les Meilleures Recettes de Dr Bonne Bouffe » (éd. Hachette Cuisine), elle partage son carnet de recettes préférées.
+ Carrie Solomon, née aux États-Unis et Parisienne d’adoption, est photographe et cuisinière. Son livre « Une Américaine à Paris » (Éditions de La Martinière) a inspiré les cartes du Coffee Club (6e) et du Miss Kale (2e). Son dernier ouvrage : « Mangez de saison ! » (Éditions de La Martinière).Instagram @carrie_in_paris
 
 
-4.02 sur 5
+3.45 sur 5
 
 Noter cette recette
 
@@ -864,7 +857,7 @@ Noter cette recette
 
 
 
-48 notes
+56 notes
 
 
 
@@ -897,7 +890,7 @@ Envie denoter cette recette ?
 
 
 
-48 notes
+56 notes
 
 
 
@@ -935,7 +928,7 @@ Défilement carousel précédent
 
 
 
-                  Soupe de potimarron, mousse de chèvre frais, grains de sarrasin toastés
+                  Gnocchis de betteraves, noisettes, feta
                 
 
 
@@ -952,7 +945,7 @@ Défilement carousel précédent
 
 
 
-                  Risotto potimarron parmesan
+                  Betteraves rôties et dukkah aux noisettes
                 
 
 
@@ -969,7 +962,7 @@ Défilement carousel précédent
 
 
 
-                  Velouté potimarron et lait d'amande
+                  Soupe haddock et pommes de terre
                 
 
 
@@ -986,7 +979,7 @@ Défilement carousel précédent
 
 
 
-                  Risotto potimarron-noisettes
+                  Soupe poireaux et pommes de terre, tartines de reblochon
                 
 
 
@@ -1003,7 +996,7 @@ Défilement carousel précédent
 
 
 
-                  Risotto aux artichauts (risotto ai carciofi)
+                  Soupe aux deux betteraves et feta
                 
 
 
@@ -1020,7 +1013,7 @@ Défilement carousel précédent
 
 
 
-                  Risotto de chou-fleur (risotto ai cavolfiori)
+                  Brioches pommes, raisins et noisettes
                 
 
 
@@ -1037,7 +1030,7 @@ Défilement carousel précédent
 
 
 
-                  Risotto au potimarron
+                  Soupe de pommes aux agrumes
                 
 
 
@@ -1054,7 +1047,7 @@ Défilement carousel précédent
 
 
 
-                  Millefeuille de potimarron aux amandes et crème glacée au potimarron
+                  Soupe de pommes de terre au citron
                 
 
 
@@ -1071,7 +1064,7 @@ Défilement carousel précédent
 
 
 
-                  Mille-feuille de potimarron aux amandes et crème glacée au potimarron
+                  Soupe aux betteraves
                 
 
 
@@ -1098,33 +1091,7 @@ Thèmes associés
 
 
 
-Recettes vegan
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de plats pas chers
-
-
-
-
-
-
-
-
-
-
-
-
-Recettes de plats faciles
+Recettes aux oléagineux
 
 
 
@@ -1163,7 +1130,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1179,7 +1146,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1195,7 +1162,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1211,7 +1178,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1227,7 +1194,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1250,7 +1217,20 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
+Menu de la semaine : des idées recettes du lundi 6 au dimanche 12 mai
+
+
+
+
+
+
+
+
+
+
+
+
+Pour fêter le retour des beaux jours, misez sur un brunch de printemps
 
 
 
@@ -1264,7 +1244,7 @@ Rouge, blanc, champagne : 20 délicieuses recettes au vin
 
 
 Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Comment bien conserver la pomme de terre selon la saison 
 
 
 
@@ -1277,7 +1257,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Quelle huile pour quel plat ?
 
 
 
@@ -1290,21 +1270,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Les conserves de poisson ont tout bon
 
 
 
@@ -1317,6 +1283,14 @@ Toutes les infos Elle à Table
 
 
  
+
+
+
+
+
+
+
+
  
 
 

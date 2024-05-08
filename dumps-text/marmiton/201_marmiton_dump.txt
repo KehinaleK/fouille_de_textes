@@ -5,7 +5,9 @@
 
 
 
-Velouté glacé à la courgette : Recette de Velouté glacé à la courgette
+Falafel (croquettes de pois chiches) : Recette de Falafel (croquettes de pois chiches)
+
+
 
 
 
@@ -259,18 +261,20 @@ Prix Marmiton 2023
 
 
 
-Accueil > Recettes > entrée > entrée chaude > soupe > Velouté glacé à la courgette
+Accueil > Recettes > plat principal > viande > boulettes de viande > Falafel (croquettes de pois chiches)
 
 
-Velouté glacé à la courgette
+Falafel (croquettes de pois chiches)
 
 
 
-De saison
+Pas de saison
 Entrée
-Entrée chaude
-Soupe
-Eté                    
+Vegetarian
+Boulettes de viande
+Viande
+Falafel
+Recettes vegan                    
 
 
 
@@ -281,14 +285,28 @@ Eté
 
 
 
- 4.5/5
+ 4.1/5
 
 
 
 
 
 
-                72 commentaires            
+                33 commentaires            
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
 
 
 
@@ -315,25 +333,24 @@ Eté
 
 
  
-		marmiton	
-
-
-
 
  
-1/5
+
+ 
+
++ 3
 
 
 
 
 
 
-50 min
+1h20
 
 ●
 
 
-très facile
+moyenne
 
 ●
 
@@ -420,6 +437,27 @@ Copier le lien
 
 
 
+                                        huile de friture                                    
+
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
                                         sel                                    
 
 
@@ -436,56 +474,14 @@ Copier le lien
 
  
 
+1
 
-
-
-
-
-                                        poivre                                    
-
-                                        du moulin                                    
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-8
-
-                                            cuillères à soupe                                        
-
-                                    d'                                    
-                                        huile d'olive                                    
-
-
-
- 
-
-
- 
- 
- 
-
-
-
-
- 
-
-0.5
-
-                                            bouquet                                        
+                                            cuillère à café                                        
 
                                     de                                     
                                         coriandre                                    
 
-                                        frais                                    
+                                        en poudre                                    
 
  
 
@@ -499,12 +495,33 @@ Copier le lien
 
  
 
-2
+1
+
+                                            cuillère à café                                        
+
+                                    de                                     
+                                        cumin en poudre                                    
+
+
+
+ 
+
+
+ 
+ 
+ 
 
 
 
 
-                                        oignons                                    
+ 
+
+3
+
+                                            cuillères à soupe                                        
+
+                                    de                                     
+                                        farine                                    
 
 
 
@@ -520,12 +537,54 @@ Copier le lien
 
  
 
-800
+1
+
+                                            bouquet                                        
+
+                                    de                                     
+                                        persil                                    
+
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+1
+
+
+
+
+                                        oignon                                    
+
+                                        moyen                                    
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+
+200
 
                                             g                                        
 
                                     de                                     
-                                        courgette                                    
+                                        pois chiches                                    
 
 
 
@@ -541,14 +600,14 @@ Copier le lien
 
 
 
-1
+500
 
+                                            g                                        
 
+                                    de                                     
+                                        fèves                                    
 
-
-                                        citron                                    
-
-
+                                        sèches                                    
 
 
 
@@ -564,10 +623,10 @@ Copier le lien
 
 2
 
+                                            gousses                                        
 
-
-
-                                        jaunes d'oeuf                                    
+                                    d'                                    
+                                        ail                                    
 
 
 
@@ -585,12 +644,33 @@ Copier le lien
 
 1
 
+                                            cuillère à café                                        
+
+                                    de                                     
+                                        paprika                                    
 
 
 
-                                        bouillon de volaille                                    
 
 
+
+
+ 
+
+
+
+
+
+
+
+3
+
+                                            cuillères à soupe                                        
+
+                                    de                                     
+                                        basilic frais                                    
+
+                                        haché                                    
 
 
 
@@ -618,102 +698,6 @@ La suite après cette publicité
  
 
 
-                            1                            louche                        
-
-
-Les meilleures ventes
-
-Acheter 
-
-
-
- 
-
-
-                            1                            mixeur plongeant                        
-
-
-Les meilleures ventes
-
-Acheter 
-
-
-
- 
-
-
-                            1                            sorbetière                        
-
-
-
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            cocotte                        
-
-
-
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            saladier                        
-
-
-Les meilleures ventes
-
-Acheter 
-
-
-
- 
-
-
-                            1                            Four                        
-
-
-top des meilleurs fours
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            bol                        
-
-
-Top des saladiers
-
-+ de détails 
-
-
-
- 
-
-
-                            1                            fourchette                        
-
-
-
-
-+ de détails 
-
-
-
- 
-
-
                             1                            Mixeur                        
 
 
@@ -726,10 +710,10 @@ Acheter
  
 
 
-                            1                            film alimentaire                        
+                            1                            robot pâtissier                        
 
 
-
+Le top des robots pâtissiers
 
 + de détails 
 
@@ -738,7 +722,7 @@ Acheter
  
 
 
-                            1                            dénoyauteur                        
+                            1                            Cuillère en bois                        
 
 
 Les meilleures ventes
@@ -750,10 +734,46 @@ Acheter
  
 
 
-                            1                            Réfrigérateur                        
+                            1                            friteuse                        
 
 
-Notre top des mini réfrigérateurs
+
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            Frigo                        
+
+
+Top des meilleurs réfrigérateurs
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            mixer                        
+
+
+
+
++ de détails 
+
+
+
+ 
+
+
+                            1                            balance de cuisine                        
+
+
+Top des meilleures balances
 
 + de détails 
 
@@ -775,12 +795,12 @@ Voir moins
 
 
 Temps total : 
-50 min
+1h20
 
 
 
 Préparation :
-30 min
+1 h
 
 
 Repos :
@@ -802,7 +822,7 @@ Cuisson :
  
 
 
-Pelez les oignons, puis émincez-les.
+Faites tremper les pois chiches et les fèves dans l'eau 12 h, les égoutter et les cuire 45 mn à l'auto cuiseur.
 
 
 
@@ -811,7 +831,7 @@ Pelez les oignons, puis émincez-les.
  
 
 
-Eliminez les extrémités des courgettes, rincez-les mais ne les pelez pas; et découpez-les en dés.
+Peler oignon et ail, les hacher ainsi que le persil.
 
 
 
@@ -820,7 +840,7 @@ Eliminez les extrémités des courgettes, rincez-les mais ne les pelez pas; et d
  
 
 
-Préparez le bouillon en faisant dissoudre la plaquette dans 3/4 de litre d'eau très chaude.
+Passer les fèves et les pois chiches au mixer (ou robot). 
 
 
 
@@ -829,82 +849,35 @@ Préparez le bouillon en faisant dissoudre la plaquette dans 3/4 de litre d'eau 
  
 
 
-Dans une cocotte, chauffez 2 cuillères à soupe d'huile d'olive, puis faites-y blondir les oignons. 
+Mélanger avec le persil, l'oignon, l'ail, la farine, les épices, le sel. 
 
 
 
 Étape 5
 
- 
 
-
-Ajoutez ensuite les dés de courgettes, mélangez; salez et poivrez, puis arrosez avec le bouillon.
+Pétrissez le tout avec vos mains en ajoutant un peu d'eau si nécessaire. Rassemblez la pâte et laisser reposer au réfrigérateur pendant minimum 30 mn.
 
 
 
 Étape 6
 
 
-Laissez cuire 20 min à couvert, sur feu doux.
+Façonner une trentaine de boulettes de la grosseur d'une pièce de 2 euros.
 
 
 
 Étape 7
 
- 
 
-
-Pressez le citron. 
+Les faire frire 2/3 mn puis les égoutter sur du papier absorbant. 
 
 
 
 Étape 8
 
- 
 
-
-Dans un bol, mélangez à la fourchette les jaunes d'oeufs avec le jus de citron et l'huile d'olive.
-
-
-
-Étape 9
-
- 
-
-
-Quand la soupe est cuite, mixez-la, puis ajoutez la préparation aux jaunes d'oeufs sans cesser de mixer, vous devez obtenir un velouté.
-
-
-
-Étape 10
-
-
-Laissez refroidir, puis mettez au réfrigérateur, recouvert d'un film alimentaire.
-
-
-
-Étape 11
-
- 
-
-
-Servez très frais dans des coupelles, en saupoudrant de ciboulette et de coriandre ciselées.
-
-
-
-Étape 12
-
- 
-
-
-Vous pouvez ajoutez sur ce velouté des petits dés de courgette, des zestes de citron ou des dés de tomates cerise pour décorer.
-
-
-
-Étape 13
-
-
-Cette délicieuse soupe froide sera encore meilleure si vous la préparez la veille.
+Servir chaud ou froid avec des petites sauces tomates aux herbes, ou sauces yaourts.
 
 
 
@@ -914,13 +887,13 @@ Cette délicieuse soupe froide sera encore meilleure si vous la préparez la vei
 
 
 
-L
-Linette
+s
+sarah_15946584
 
+Voir toutes les recettes
 
 Note de l'auteur :
-« Subtil et délicat.
-La coriandre peut être remplacée par les herbes aromatiques de votre choix comme la menthe poivrée par exemple ! »
+« On peut prendre des pois chiches et des fèves en conserve mais ces dernières sont moins faciles à trouver. »
 
 
 
@@ -979,7 +952,7 @@ Vous aimerez aussi…
  
 
 
-Soupe glacée à la courgette 
+Croquettes de pois chiches au jambon et oignons 
 
 
 
@@ -989,34 +962,10 @@ Soupe glacée à la courgette
  
 
 
-				4/5            
+				4.3/5            
 
 
-	  1 avis  
-
-
-
-
-
-
-
- 
-
-
-velouté glacé express aux petits pois 
-
-
-
-
- 
-
- 
-
-
-				4.6/5            
-
-
-	  39 avis  
+	  3 avis  
 
 
 
@@ -1027,7 +976,44 @@ velouté glacé express aux petits pois
  
 
 
-Soupe glacée de courgette et petits légumes 
+Falafels 
+
+
+
+
+ 
+
+ 
+
+
+				3.8/5            
+
+
+	  44 avis  
+
+
+
+
+
+
+
+ 
+
+
+Falafels (facile et express) 
+
+
+
+
+ 
+
+ 
+
+
+				4.2/5            
+
+
+	  9 avis  
 
 
 
@@ -1042,7 +1028,8 @@ Soupe glacée de courgette et petits légumes
 
 
 
-                Commentaires (72)    
+
+                Commentaires (33)    
 
 
 La recette est terminée.
@@ -1056,35 +1043,35 @@ Donnez votre avis
 
 
 
-n
+m
 
-ninie92350
+monile08
 
- 5/5
-
-
-
-
-
-                                                Très rafraichissant avec juste une touche d'acidité.                    
-
-                        31/10/2023 14:52
-
-
-
-A
-
-Anonyme
-
- 5/5
+ 4/5
 
 
 
 
 
-                                                Très bonne recette, très facile à faire.                    
+                                                Bonne idée de recette. Les boulettes étaient très bonnes. Je n'avais pas de fèves donc je n'ai mis que des pois chiches.                    
 
-                        31/10/2023 14:52
+                        31/10/2023 15:38
+
+
+
+Z
+
+Zmaq88elg
+
+ 4/5
+
+
+1
+
+
+                                                Réussite sur la consistance très bonne tenue au bain d'huile par contre ne pas hésiter à ajouter un peu plus d'épices pour relever.                     
+
+                        31/10/2023 15:38
 
 
 
@@ -1110,75 +1097,75 @@ Plus de recettes
 
 
 
-					Velouté glacé de concombre à la menthe				
+					Falafel 				
 
 
 
-					Velouté glacé à l'avocat et au pamplemousse				
+					Falafels (facile)				
 
 
 
-					Soupe à la courgette				
+					Falafel (rapide)				
 
 
 
-					Velouté de courgette				
+					Curry de pois chiches				
 
 
 
-					Thé glacé				
+					Cuisson des pois chiches				
 
 
 
-					Courgette farcie				
+					Salade de pois chiches				
 
 
 
-					Velouté glacé de menthe et petits pois au Thermomix				
+					croquettes de pommes de terre				
 
 
 
-					Gratin de courgette				
+					Pois chiches grillés				
 
 
 
-					Velouté glacé de menthe et petits pois au Cookeo				
+					Falafels (recette facile et inratable)				
 
 
 
-					Velouté glacé petit pois menthe et mouillettes au chèvre				
+					Soupe de pois chiches				
 
 
 
-					Velouté glacé de menthe et petits pois au Companion				
+					Galettes de pois chiches				
 
 
 
-					Velouté glacé de menthe et petits pois au Monsieur Cuisine				
+					croquette de poulet				
 
 
 
-					soupe de courgette				
+					Pains pita aux falafels				
 
 
 
-					Velouté glacé concombre-menthe (express & light)				
+					Pois chiche au cumin				
 
 
 
-					Velouté glacé courgettes basilic billes de mozzarella				
+					Salade de pois chiche au thon				
 
 
 
-					Velouté glacé onctueux au concombre et au yaourt				
+					Falafels au four				
 
 
 
-					Velouté glacé de menthe et petits pois au Cooking Chef				
+					Pois chiches à l'espagnole				
 
 
 
-					Velouté glacé de chou-fleur, roulés de jambon au fromage frais				
+					Salade de pois chiches au cumin				
 
 
 
@@ -1195,27 +1182,27 @@ Ces contenus devraient vous intéresser
 
 
 
-					Que manger avec de la soupe ?				
+					Tout savoir sur les petits-pois				
 
 
 
-					4 légumes pour remplacer la courgette en attendant l’été				
+					21 recettes de boulettes qui changent des boulettes de bÅuf classiques				
 
 
 
-					Coriandre				
+					Par quoi remplacer le houmous à l'apéro si les pois chiches venaient à manque				
 
 
 
-					Courgette				
+					Que faire avec une boîte de pois chiches ?				
 
 
 
-					Citron				
+					5 astuces pour préparer des boulettes de viande parfaites				
 
 
 
-					Huile d'olive				
+					Croquettes de courgette : la nouvelle tendance qui envahit les réseaux sociaux				
 
 
 

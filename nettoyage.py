@@ -18,6 +18,8 @@ def parcourir_dossier(site):
 def texte_exception(fichier, texte):
 
     chemin = f"dumps-traites/{fichier.parent.name}/{fichier.name}"
+    print(chemin)
+    print(texte)
     with open(chemin, "w", encoding="utf8") as file_traite:
         texte_trop_beau = re.sub(r"\s+", " ", texte.group(0).strip())
         file_traite.write(texte_trop_beau)
@@ -35,12 +37,19 @@ def nettoyage_nadine(liste_fichiers):
                 if fichier == Path("dumps-text/nadine/18_nadine_dump.txt"):
                     texte = re.search("Let.s go en cuisine(.*?)(?=PartagezEnregistrer22)", texte_full, re.DOTALL)
                     texte_exception(fichier, texte)
+                elif fichier == Path("dumps-text/nadine/69_nadine_dump.txt"):
+                    texte = re.search("Let.s go en cuisine(.*?)(?=PartagezEnregistrer33)", texte_full, re.DOTALL)
+                    texte_exception(fichier, texte)
                 elif fichier == Path("dumps-text/nadine/32_nadine_dump.txt"):
                     texte = re.search("Let.s go en cuisine(.*?)(?=D’après une recette de Yolande.)", texte_full, re.DOTALL)
+                    texte_exception(fichier, texte)
+                elif fichier == Path("dumps-text/nadine/70_nadine_dump.txt"):
+                    texte = re.search("Les orages passés(.*?)(?=PartagezEnregistrer0.)", texte_full, re.DOTALL)
                     texte_exception(fichier, texte)
                 else:
                     texte = re.search("Épingler la recette(.*?)(?=Si vous testez cette recette)", texte_full, re.DOTALL)
                     texte_exception(fichier, texte)
+                
 
     # On a eu besoin de s'occuper de trois exceptions
 
@@ -64,11 +73,14 @@ def nettoyage_mercotte(liste_fichiers):
                 if fichier == Path("dumps-text/mercotte/146_mercotte_dump.txt"):
                     texte = re.search("La recette(.*?)(?=Imprimer la (R|r)ecette)", texte_full, re.DOTALL)
                     texte_exception(fichier, texte)
+                elif fichier == Path("dumps-text/mercotte/195_mercotte_dump.txt"):
+                    texte = re.search("Pour 6 personnes : préparation 10 min, cuisson 40min(.*?)(?=Imprimer la (R|r)ecette)", texte_full, re.DOTALL)
+                    texte_exception(fichier, texte)
                 else:
                     texte = re.search("La recette(.*?)(?=Explications? utiles? ou futiles?|Imprimer la (R|r)ecette|Langoustines\? Saint Jacques\?)", texte_full, re.DOTALL)
                     texte_exception(fichier, texte)
             except:
-                if fichier == Path("dumps-text/mercotte/110_mercotte_dump.txt"):
+                if fichier == Path("dumps-text/mercotte/159_mercotte_dump.txt"):
                     texte = re.search("La recette :(.*?)(?=On peut présenter dans des tasses avec possibilité de se servir ou non de noisettes)", texte_full, re.DOTALL)
                     texte_exception(fichier, texte)
                 else:

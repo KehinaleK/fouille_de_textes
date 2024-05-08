@@ -2,7 +2,8 @@
 
 
 
-Fleurs de chou-fleur aux trois couleurs à l’huile mentholée pour 4 personnes - Recettes - Elle à Table
+Carpaccio de saint-jacques aux baies roses et citron vert, crémeux de céleri pour 4 personnes - Recettes - Elle
+
 
 
 
@@ -172,7 +173,23 @@ Lien vers réseau social facebook
 
 
 
+Lien vers réseau social twitter
+
+
+
+
+
+
+
 Lien vers réseau social pinterest
+
+
+
+
+
+
+
+Lien vers réseau social youtube
 
 
 
@@ -220,7 +237,22 @@ Sauvegarder
 Sauvegardé
 
 
-Je m'abonne
+Je m'abonne pour 1€
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le mag
 
 
 
@@ -246,7 +278,22 @@ Ouvrir le menu principal
 
 
 
-Je m'abonne
+Je m'abonne pour 1€
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le mag
 
 
 
@@ -318,52 +365,604 @@ Rechercher sur le site
 
 
 
-Retour vers ELLE.fr
+TOUTE L'ACTU
 
 
-Menu de la semaine
+Mariage
 
 
-Bilan arrêt du sucre
+Déco extérieure
+
+
+Edition Abonnées
+
+
+JE M'ABONNE
+
+
+BOX BY ELLE
+
+
+YOGA AVEC OLY BE
+
+
+BONS PLANS
+
+
+LES RENDEZ-VOUS ELLE
 
 
 
 
 
-ACTU CUISINE
+MODE
 
 
 
 
 
-News
+Chaussures
+
+
+Actu
+
+
+
+
+
+Robes
+
+
+
+
+
+Robes de soirées
+
+
+
+
+
+
+
+
+Shopping Mode
+
+
+
+
+
+Jeans
+
+
+Lingerie
+
+
+Pulls et Gilets
+
+
+Manteaux
+
+
+Accessoires de mode
+
+
+
+
+
+
+
+
+Défilés de Mode
+
+
+
+
+
+Fashion week
+
+
+Créateurs
+
+
+
+
+
+Horlogerie-Joaillerie
+
+
+Mode de Stars
+
+
+
+
+
+Conseils
+
+
+
+
+
+DIY Mode
+
+
+Morpho mode
+
+
+
+
+
+
 
 
 Tendances
 
 
-Idées de menus
-
-
-Menu de chefs
 
 
 
+Push mode
+
+
+Streetstyle
+
+
+L'instant mode
+
+
+Lookbook
+
+
+It-pièce
+
+
+Mode par année
 
 
 
 
 
-RECETTES
+Tests & Quiz Mode
+
+
+Street Style
+
+
+Carnet de Mode
 
 
 
 
 
-Top recettes
 
 
-Cocktails
+
+BEAUTÉ
+
+
+
+
+
+Actu
+
+
+
+
+
+Cheveux
+
+
+
+
+
+Coupe de cheveux
+
+
+Coiffure
+
+
+Coiffure de soirée
+
+
+Coloration
+
+
+Coiffure facile
+
+
+Astuces cheveux
+
+
+Tuto Coiffure
+
+
+Balayage
+
+
+
+
+
+
+
+
+Maquillage
+
+
+
+
+
+Maquillage des yeux
+
+
+Maquillage de soirée
+
+
+Astuces maquillage
+
+
+
+
+
+
+
+
+Soins Beauté
+
+
+
+
+
+Soins corps & visage
+
+
+Manucure
+
+
+Épilation
+
+
+Bronzage
+
+
+
+
+
+Tendances
+
+
+Parfums
+
+
+
+
+
+Beauté des Stars
+
+
+
+
+
+Coiffure de stars
+
+
+
+
+
+Beauté ethnique
+
+
+Chirurgie esthétique
+
+
+Tests & Quiz Beauté
+
+
+
+
+
+
+
+
+FORME
+
+
+
+
+
+Actu
+
+
+Bien-être
+
+
+Yoga
+
+
+Spas
+
+
+Sport
+
+
+Astuces pour maigrir
+
+
+
+
+
+Régimes
+
+
+
+
+
+Calcul calories
+
+
+Guide des calories
+
+
+Poids idéal
+
+
+
+
+
+Guides forme
+
+
+Secrets des Stars
+
+
+Tests & Quiz Forme et Santé
+
+
+
+
+
+
+
+
+CULTURE
+
+
+
+
+
+Actu
+
+
+Cinéma
+
+
+
+
+
+Livres
+
+
+
+
+
+Grands Prix Littéraires ELLE
+
+
+
+
+
+
+
+
+Musique
+
+
+
+
+
+Festival
+
+
+Concerts
+
+
+Nos playlists
+
+
+Le clip de la semaine
+
+
+
+
+
+Séries
+
+
+
+
+
+Sorties
+
+
+
+
+
+Actu
+
+
+Musés/Expos
+
+
+Bars
+
+
+Théâtres
+
+
+Hôtels
+
+
+Restaurants
+
+
+
+
+
+Télé
+
+
+Programme TV avec Télé 7 Jours
+
+
+Tests & Quiz Culture
+
+
+
+
+
+ÉVASION
+
+
+
+
+
+PEOPLE
+
+
+
+
+
+Actu
+
+
+Vie des People
+
+
+Style
+
+
+Tapis rouge
+
+
+Enfants de Stars
+
+
+Royauté
+
+
+Bios People
+
+
+Tests & Quiz People
+
+
+
+
+
+
+
+
+SOCIÉTÉ
+
+
+
+
+
+Actu Société
+
+
+Santé
+
+
+Politique
+
+
+Justice
+
+
+Phénomènes
+
+
+Femmes à suivre
+
+
+L'édito
+
+
+Interviews
+
+
+L'actu en images
+
+
+Tests & Quiz Culture Générale
+
+
+
+
+
+
+
+
+ELLE A TABLE
+
+
+
+
+
+
+
+
+Actu
+
+
+
+
+
+Idées menus
+
+
+Cuisine du placard
+
+
+Astuces cuisine
+
+
+Menus de chefs
+
+
+
+
+
+
+
+
+Cuisine minceur
+
+
+
+
+
+Entrées light
+
+
+Apéro minceur
+
+
+Plats minceur
+
+
+Desserts light
+
+
+
+
+
+
+
+
+Recettes
+
+
+
 
 
 Apéritifs
@@ -375,13 +974,10 @@ Entrées
 Plats
 
 
-Sauces
-
-
 Desserts
 
 
-Pâtisseries
+Cocktails
 
 
 Par ingrédient
@@ -393,148 +989,418 @@ Par ingrédient
 
 
 
-THÈMES
+Thèmes
 
 
 
-
-
-Recettes de saison
 
 
 Recettes classiques
 
 
-Recettes faciles
-
-
 Cuisine rapide
 
 
-Recettes à petits prix
-
-
-Cuisson
+Recettes faciles
 
 
 Cuisine du monde
 
 
-Cuisine régionale
+Cuisine de saison
 
 
-Recettes Thermomix
+Recettes à petits prix
 
 
+Pâtisseries
 
 
+Cuisson
 
 
-
-
-FÊTES
-
-
-
-
-
-Galette des rois
-
-
-Chandeleur
-
-
-Saint-Valentin
-
-
-Nouvel An chinois
-
-
-Mardi gras & Carnaval
-
-
-Fêtes des mères
-
-
-Pâques
-
-
-Halloween
-
-
-Recettes de Noël
-
-
-
-
-
-
-
-
-HEALTHY
-
-
-
-
-
-Détox
-
-
-Sans gluten
+Recettes sans gluten
 
 
 Recettes végétariennes
 
 
-Recettes vegan
-
-
-Recettes bio
-
-
-Cuisine anti-âge
-
-
-Cuisine minceur
+Cuisine bio
 
 
 
 
 
+Menu de la semaine
 
 
-
-PRATIQUE
-
-
-
-
-
-Que faire avec ?
-
-
-Cuisine du placard
-
-
-Astuces de cuisine
-
-
-Accords mets & vins
-
-
-Lexique culinaire
-
-
-Lexique vin
-
-
-
-
-
-ABONNEZ-VOUS AU MAGAZINE
+Accords Mets & Vins
 
 
 Tests & Quiz Cuisine
+
+
+
+
+
+
+
+
+ELLE DÉCORATION
+
+
+
+
+
+News & Tendances
+
+
+Conseils pratiques
+
+
+Reportages
+
+
+Déco par pièce
+
+
+Déco par couleur
+
+
+Déco par style
+
+
+Déco extérieure
+
+
+Blog déco : Billie Blanket
+
+
+
+
+
+
+
+
+ELLE ACTIVE
+
+
+
+
+
+Tests & Quiz ELLE Active
+
+
+
+
+
+ELLE GREEN
+
+
+
+
+
+ELLE ZEN
+
+
+
+
+
+Bien-être
+
+
+Bien manger
+
+
+Yoga
+
+
+Sommeil
+
+
+Massages
+
+
+Spas
+
+
+
+
+
+
+
+
+PSYCHO-SEXO
+
+
+
+
+
+Actu
+
+
+Sexualité
+
+
+Kamasutra
+
+
+Fantasmes
+
+
+Couple
+
+
+Célibataires
+
+
+C'est mon histoire
+
+
+Tests & Quiz Psycho-Sexo
+
+
+Psycho
+
+
+
+
+
+
+
+
+ASTRO
+
+
+
+
+
+
+
+
+Horoscope
+
+
+
+
+
+Horoscope 2024
+
+
+Horoscope du jour
+
+
+Horoscope de demain
+
+
+Horoscope de la semaine
+
+
+Horoscope du mois
+
+
+Caractère des signes
+
+
+Horoscope amoureux
+
+
+Horoscope Saint Valentin
+
+
+Calcul ascendant
+
+
+
+
+
+
+
+
+Horoscope Chinois
+
+
+
+
+
+Horoscope chinois 2024
+
+
+Horoscope chinois du jour
+
+
+Horoscope chinois de la semaine
+
+
+Caractère des signes chinois
+
+
+
+
+
+
+
+
+Amour
+
+
+
+
+
+Compatibilité amoureuse
+
+
+Compatibilité des prénoms
+
+
+Profil sexuel
+
+
+Personnalité des prénoms
+
+
+Quel homme est il ?
+
+
+
+
+
+
+
+
+Tarots
+
+
+
+
+
+Tarot Oui/Non
+
+
+Tarot amour
+
+
+Tarot travail
+
+
+Tarot des stars
+
+
+
+
+
+
+
+
+Numérologie
+
+
+
+
+
+Numérologie 2024
+
+
+Numérologie du couple
+
+
+Profil numérologique
+
+
+Numérologie du travail
+
+
+Calcul chemin de vie
+
+
+
+
+
+Boule de Cristal
+
+
+Idées de prénoms
+
+
+
+
+
+
+
+
+MAMAN
+
+
+
+
+
+Actu
+
+
+Grossesse
+
+
+Conception
+
+
+Bébé
+
+
+Enfant
+
+
+Ado
+
+
+Famille
+
+
+Tests & Quiz Maman
+
+
+
+
+
+
+
+
+MARIAGE
+
+
+
+
+
+Robes de Mariée
+
+
+Actu
+
+
+Bagues et alliances
+
+
+Coiffures
+
+
+Mise en beauté
+
+
+Accessoires
+
+
+Préparatifs
+
+
+
+
+
+TESTS & QUIZ
+
+
+NEWSLETTERS
+
+
+PODCASTS
 
 
 J'offre ELLE
@@ -559,10 +1425,13 @@ J'offre ELLE
 Elle
 
 
-Elle à Table
+Noël
 
 
-Recettes de cuisine
+Cuisine de Noël
+
+
+Recettes de Noël
 
 
 
@@ -570,22 +1439,23 @@ Recettes de cuisine
 
 
 
-            sans cuisson
+
+            saint-Jacques
         
 
 
 
-            à l'avance
+            noël de chef
         
 
 
 
-            entrées faciles
+            réveillon Noël
         
 
 
 
-            entrées froides
+            coquilles Saint-Jacques Noël
         
 
 
@@ -619,8 +1489,8 @@ Partager sur pinterest
 
 
 
-Fleurs de chou-fleur aux trois couleurs à l’huile mentholée
-Une entrée colorée et fraîche.
+Carpaccio de saint-jacques aux baies roses et citron vert, crémeux de céleri
+Une entrée de chef !
 
 
 
@@ -628,7 +1498,7 @@ Une entrée colorée et fraîche.
 
 
 
-            © Jérôme Galland
+            © Presse
         
 
 
@@ -648,7 +1518,7 @@ Nombre de personnes
 
 Temps de préparation
 
-30 min.
+60 min.
 
 
 
@@ -657,12 +1527,12 @@ Temps de préparation
 
 Temps de cuisson
 
-3 min.
+20 min.
 
 
 Difficulté
 
-Très facile
+Assez difficile
 
 
 
@@ -674,7 +1544,7 @@ Très facile
 
 Prix
 
-Bon marché
+Cher
 
 
 
@@ -684,42 +1554,7 @@ Bon marché
 
 
 
-Note : 5 sur 5
-
-Noter cette recette
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5 notes
-
-
-
-
-
-
-
-
-
-
-
-Note : 5 sur 5
+Note : 0 sur 5
 
 Noter cette recette
 
@@ -742,7 +1577,42 @@ Noter cette recette
 
 
 
-5 notes
+0 note
+
+
+
+
+
+
+
+
+
+
+
+Note : 0 sur 5
+
+Noter cette recette
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 note
 
 
 
@@ -779,42 +1649,54 @@ Une recette élaborée par la rédaction de
 
 Ingrédients
 
-1
+8
 							
-							chou-fleur blanc
-1
-							
-							chou coloré
-1
-							
-							chou romanesco
-1
-							
-							botte de menthe
-1
-							
-							botte de coriandre
-30
-							g
-							de raisins de corinthe
-1
-							
-							poivron rouge
-1
-							
-							poivron vert
-20
-							cl
-							d'huile d'olive
-1/2
-							
-							oignon émincé
+							coquilles saint-jacques
+
+Pour le crémeux de céleri
+
 
 							
-							le jus de 2 citrons jaunes
-100
+							 1/2 céleri (250 g de pulpe de céleri)
+
+							
+							 1 verre(s) de lait
+
+							
+							 1 feuille de gélatine
+200
 							g
-							de pignons de pin
+							de crème à 30 % mg
+
+Pour la marinade
+
+
+							
+							 1 cuillère(s) à soupe de baies roses
+
+							
+							 le jus de 1 citron jaune
+
+							
+							 le zeste de 1 citron vert bio
+3
+							cuillère(s) à soupe
+							d'huile d'olive
+
+							
+							fleur de sel
+
+Pour le décor
+
+1
+							
+							pomme granny-smith
+
+							
+							 1 feuille de nori
+
+							
+							 huile de vanille
 
 
 
@@ -823,14 +1705,23 @@ Ingrédients
 Préparation
 
 
-Lavez les choux. Récupérez les bouquets du chou-fleur. Râpez les différents choux pour obtenir un mélange coloré.
+Pour le crémeux : pelez et coupez le céleri en morceaux. Placez-les dans une casserole avec le verre de lait, mouillez à hauteur avec de l’eau et laissez cuire 15 à 20 mn. Faites tremper la feuille de gélatine dans un bol d’eau.
 
 
 
-Lavez, séchez et effeuillez les herbes, hachez-les. Ébouillantez les raisins, puis laissez-les refroidir. Lavez et taillez les poivrons en petits cubes.
+Préparez les saint-jacques : placez la partie arrondie de la coquille contre vous, le muscle se trouve alors sur la droite. Glissez un couteau par la petite fente sur le côté, coupez le muscle en raclant la coquille supérieure et faites glisser la lame jusqu’en haut de la coquille. Nettoyez les saint-jacques en ôtant les barbes (gardez-les pour faire des sauces ou un fumet). Ôtez le muscle de la coquille et rincez à l’eau claire. Placez les noix de saint-jacques au congélateur quelques minutes pour faciliter la découpe.
 
 
-Mélangez tous les ingrédients à l’exception des pignons, et faites macérer au frais au moins 2h. Ajoutez les pignons 1 h avant de servir.
+Pour la marinade : écrasez les baies roses avec le plat d’un couteau et hachez-les finement. Dans un bol, placez les baies hachées, ajoutez le jus du citron jaune, le zeste du citron vert et l’huile d’olive. Assaisonnez à la fleur de sel.
+
+
+Poursuivez la préparation du crémeux : retirez le céleri du feu, mixez les morceaux. Ajoutez la feuille de gélatine essorée à la préparation, mélangez, puis réservez. Montez la crème et laissez-la reposer au frais quelques minutes. Vérifiez sa bonne tenue et intégrez délicatement la préparation de céleri à la crème.
+
+
+Pour le carpaccio : sortez les saint-jacques du congélateur et coupez-les en fines lamelles de 3 à 5 mm. Découpez la feuille de nori et la pomme granny-smith en petits bâtonnets.
+
+
+Avec un emporte-pièce, disposez le crémeux de céleri. Placez les lamelles de saint-jacques en quinconce sur le crémeux, puis les bâtonnets de nori et de pomme sur les saint-jacques et arrosez de marinade. Décorez avec quelques gouttes d’huile de vanille. Servez rapidement pour éviter que le citron ne cuise les saint-jacques.
 
 
 
@@ -840,10 +1731,10 @@ L'astuce
 
 
 
-Recette du chef Christian Le Squer du Cinq Four Season Hotel George V, Paris-8e.À boire avec un vin de Savoie, Domaine Dupasquier, Chardonnay 2017, blanc sec.
+Recette du chef Damien Litaudon chez Palmer & Co 24, rue du Chalet 51500 Chigny-les-Roses domaine-du-chalet.com
 
 
-5 sur 5
+0 sur 5
 
 Noter cette recette
 
@@ -866,7 +1757,7 @@ Noter cette recette
 
 
 
-5 notes
+0 note
 
 
 
@@ -899,7 +1790,7 @@ Envie denoter cette recette ?
 
 
 
-5 notes
+0 note
 
 
 
@@ -937,7 +1828,7 @@ Défilement carousel précédent
 
 
 
-                  Huîtres à la sauce tosazu, huile à l'ail
+                  Carpaccio de saint-jacques, chou-fleur et épinards
                 
 
 
@@ -954,7 +1845,7 @@ Défilement carousel précédent
 
 
 
-                  Sardines fraîches à l’huile
+                  Carpaccio de saint-jacques aux fruits de la passion et au citron vert
                 
 
 
@@ -971,7 +1862,7 @@ Défilement carousel précédent
 
 
 
-                  Salade de chou-fleur à la pomme
+                  Carpaccio de saint-jacques, ciboulette et noisettes
                 
 
 
@@ -988,7 +1879,7 @@ Défilement carousel précédent
 
 
 
-                  Champignons à l’huile 
+                  Carpaccio de saint-jacques et litchis
                 
 
 
@@ -1005,7 +1896,7 @@ Défilement carousel précédent
 
 
 
-                  Tarte fine à la crapaudine, crème à l’huile de courge
+                  Carpaccio de saint-jacques et gelée de bouillon de betterave
                 
 
 
@@ -1022,7 +1913,7 @@ Défilement carousel précédent
 
 
 
-                  Tatin de tomates cerises, glace à la ricotta et à l’huile d’olive
+                  Carpaccio de saint-jacques au citron caviar
                 
 
 
@@ -1039,7 +1930,7 @@ Défilement carousel précédent
 
 
 
-                  Thon à l'huile et au fenouil
+                  Carpaccio de Saint-Jacques, fruit de la passion et caviar
                 
 
 
@@ -1056,7 +1947,7 @@ Défilement carousel précédent
 
 
 
-                  Taboulé aux fèves, chou-fleur, brocoli et concombre à la menthe
+                  Carpaccio de saint-jacques à l’huile d’argan et grenade
                 
 
 
@@ -1073,7 +1964,7 @@ Défilement carousel précédent
 
 
 
-                  Glace à l’huile d’olive
+                  Carpaccio de saint-jacques, grenade et yuzu
                 
 
 
@@ -1139,7 +2030,7 @@ Cocktail Porn Star Martini
 
 2
 
-Crème chantilly classique 
+Épaule d'agneau entière rôtie au four
 
 
 
@@ -1155,7 +2046,7 @@ Crème chantilly classique
 
 3
 
-Épaule d'agneau entière rôtie au four
+Gâteau au chocolat facile
 
 
 
@@ -1171,7 +2062,7 @@ Crème chantilly classique
 
 4
 
-Cocktail Bora Bora sans alcool
+Crème chantilly classique 
 
 
 
@@ -1187,7 +2078,7 @@ Cocktail Bora Bora sans alcool
 
 5
 
-Gâteau au chocolat facile
+Cocktail Bora Bora sans alcool
 
 
 
@@ -1203,7 +2094,7 @@ Gâteau au chocolat facile
 
 6
 
-Brick au thon et au fromage
+Petits artichauts violets à l'italienne
 
 
 
@@ -1215,7 +2106,7 @@ Brick au thon et au fromage
 
 
 
-Toute l'actu Elle à Table
+Toute l'actu Noël
 
 
 
@@ -1226,21 +2117,7 @@ Toute l'actu Elle à Table
 
 
 
-Rouge, blanc, champagne : 20 délicieuses recettes au vin
-
-
-
-
-
-
-
-
-
-
-
-
-Édition abonnées
-Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
+Idées de soupes chics pour le réveillon
 
 
 
@@ -1253,7 +2130,7 @@ Endométriose : adapter mon alimentation m’a permis d’avoir moins mal
 
 
 
-Est-ce que le sirop d’érable périme ?
+Réveillonner chic dès l'apéro
 
 
 
@@ -1266,7 +2143,7 @@ Est-ce que le sirop d’érable périme ?
 
 
 
-Tout savoir sur les oléagineux
+15 idées de bouchées apéritives de fête à faire à la maison
 
 
 
@@ -1279,14 +2156,26 @@ Tout savoir sur les oléagineux
 
 
 
-Édition abonnées
-Vrai / faux : le lait végétal, c’est comme du lait !
+Fait maison : les secrets d’un pain d’épices moelleux à souhait
 
 
 
 
 
-Toutes les infos Elle à Table
+
+
+
+
+
+
+
+56 recettes pour un buffet dînatoire de réveillon sensationnel
+
+
+
+
+
+Toutes les infos Noël
 
 
 
@@ -1359,7 +2248,23 @@ Lien vers réseau social facebook
 
 
 
+Lien vers réseau social twitter
+
+
+
+
+
+
+
 Lien vers réseau social pinterest
+
+
+
+
+
+
+
+Lien vers réseau social youtube
 
 
 
@@ -1384,7 +2289,7 @@ Lien vers réseau social tiktok
 
 
 
-Newsletter Cuisine
+Newsletter Mode
 Je m'inscris
 
 
