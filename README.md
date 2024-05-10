@@ -34,7 +34,7 @@ python3 datastructures.py
 Lis le fichier recettes.csv créé avec le script creation_tableau.py et fait des statistiques. 
 
 # Scripts d'apprentissage
-Il y a 4 scripts d'apprentissages un pour chaque modèle. 
+Il y a 4 scripts d'apprentissage un pour chaque modèle. 
 
 ## nbm.py
 Script d'apprentissage avec Naïve bayes.

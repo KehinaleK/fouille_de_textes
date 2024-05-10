@@ -40,7 +40,8 @@ def get_texte(liste_liens, site):
 def main():
 
     parser = argparse.ArgumentParser(description='Extraire le contenu textuel')
-    parser.add_argument('site', choices=["nadine", "jackie", "mercotte", "marmiton", "elle"], help='Nom du site dont on veut extraire les liens')
+    parser.add_argument('site', choices=["nadine", "jackie", "mercotte", "marmiton", "elle"], 
+                        help='Nom du site dont on veut extraire les liens')
     args = parser.parse_args()
 
     colonne_liens_id = get_table()

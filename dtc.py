@@ -1,7 +1,7 @@
 import csv
 import argparse
 import numpy as np
-import matplotlib.pyplot as plt # Pour les graphiques, on y est pas encore mdr
+import matplotlib.pyplot as plt 
 import seaborn as sns; set()
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -14,8 +14,7 @@ import nltk # Obligée d'importer nltk pour obtenir des stopwords en français, 
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 
-# COMMANDE LES AMIS : python3 demo_scikit.py
-# tout simple
+# ex: python3 dtc.py vegan
 
 def entrainement(regime, index):
 
@@ -36,25 +35,18 @@ def entrainement(regime, index):
     model.fit(train_text, train_corpus[regime])
     test_evaluation = model.predict(test_text)
     # On convertie les données textuelles en matrices globalement, chaque mot a un "score".
-    # On choisie MultinomialNaiveBayes parce que c'est ce qu'on utilise généralement pour les classifications de texte. 
-    # La pipeline permet de faire passer ce qui est vectorisé dans le modèle Multinomial.S
-
+ 
     # Permet d'entraîner le modèle
     # On "fit" les données d'entrainement et les données cibles.
     # On dit que ces données vectorisées sont associées à telle ou telle réponse.
-
-    # On lui donne le même genre de données que dans le train.
-    # ET EN GROS ! le modèle s'entraine ici sur la colonne 'phrase'.
-    # on obtient la liste des ses réponses
 
     print("Taux d'accuracy :", accuracy_score(test_corpus[regime], test_evaluation))
     print("Classification Report:")
     print(classification_report(test_corpus[regime], test_evaluation))
 
     return test_evaluation, test_corpus
-    # 32328 lignes dans totaltest.csv
-    # 190 erreurs
-    # taux_accuracy = Taux d'accuracy : 0.9941227418955704 donc ça semble logique ?
+
+ # PERMET D'OBTENIR NOS TABLEAUX CSV 
 def obtention_phrases(test_evaluation, test_corpus, regime):
 
     VP = []
@@ -94,7 +86,7 @@ def obtention_phrases(test_evaluation, test_corpus, regime):
             structure.writerow([phrase[0], phrase[1], phrase[2]])
         
 
-# Création d'une matrice de confusion et d'une heatmap oh lala : 
+# Création d'une matrice de confusion : 
 def matrice_de_confusion(test_evaluation, test_corpus, regime):
 
 
@@ -105,15 +97,6 @@ def matrice_de_confusion(test_evaluation, test_corpus, regime):
     plt.title('Matrice de confusion')
     plt.show()
 
-
-    # Dans cette matrice on a les vraies positives en bas à droite (plutôt):
-        # Ce qui est vraiment D et qui a été reconnu comme tel.
-    # Les faux positifs en haut à droite : 
-        # Ce qui est compté comme D alors que A.
-    # Les vrai négatifs en haut à gauche : 
-        # Ce qui est A (donc négatifs) et bien compté comme A.
-    # Les faux négatifs en bas à gauche :
-        # Ce qui est est compté comme A alors que D.
 def main():
     
     parser = argparse.ArgumentParser(description="Choix du régime alimentaire pour l'entraînement")
